@@ -5,6 +5,9 @@
 		"year": 2019,
 		"title": "One neuron is more informative than a deep neural network for aftershock pattern forecasting",
 		"id" : "arXiv:1904.01983",
-		"link": "https://arxiv.org/abs/1904.01983"
+		"link": "https://arxiv.org/abs/1904.01983",
+		"category1": "earthquake forecasting",
+		"category2": "NA",
+		"subcategory": "statistical learning"
 	}
 ]

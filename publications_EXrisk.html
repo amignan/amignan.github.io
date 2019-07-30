@@ -1,0 +1,63 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+
+  <script>
+    $(document).ready(function () {
+        $.getJSON("dat/publ_amignan_peer_reviewed.json", function (data) {
+            var arrItems = [];      // THE ARRAY TO STORE JSON ITEMS.
+            $.each(data, function (index, value) {
+                arrItems.push(value);       // PUSH THE VALUES INSIDE THE ARRAY.
+            });
+            var txt = "";
+            var n = arrItems.length;
+            for (i=0; i < n; i++) if (arrItems[i].category1 == "exotic risk" | 
+            arrItems[i].category2 == "exotic risk"){
+                txt = txt.concat("[", n-i, "] ", arrItems[i].authors, " (", arrItems[i].year, "), ",
+                  arrItems[i].title, ". <i>", arrItems[i].journal, "</i>, ", arrItems[i].volume,
+                  ", ", arrItems[i].pages, ", <a href='", arrItems[i].link, "' target = _blank>", 
+                  arrItems[i].id, "</a><br><br>");
+            }
+            document.getElementById('peer_reviewed').innerHTML = txt;
+        });
+    });
+    $(document).ready(function () {
+        $.getJSON("dat/publ_amignan_preprint.json", function (data) {
+            var arrItems = [];      // THE ARRAY TO STORE JSON ITEMS.
+            $.each(data, function (index, value) {
+                arrItems.push(value);       // PUSH THE VALUES INSIDE THE ARRAY.
+            });
+            var txt = "";
+            var n = arrItems.length;
+            for (i=0; i < n; i++) if (arrItems[i].category1 == "exotic risk" | 
+            arrItems[i].category2 == "exotic risk"){
+                txt = txt.concat("[", n-i, "] ", arrItems[i].authors, " (", arrItems[i].year, "), ",
+                  arrItems[i].title, ", <a href='", arrItems[i].link, "' target = _blank>", 
+                  arrItems[i].id, "</a><br><br>");
+            }
+            document.getElementById('preprint').innerHTML = txt;
+        });
+    });
+  </script>
+</head>
+
+<body>
+    <main>
+      <br>
+        <h3>Exotic risk publications</h3>
+      <h4>Preprints</h4>
+      <p id="preprint"></p>
+    
+      <h4>Peer-reviewed articles</h4>
+      <p id="peer_reviewed"></p>
+    
+      <h4>Other articles</h4>
+    </main>
+  
+</body>
+
+</html>
