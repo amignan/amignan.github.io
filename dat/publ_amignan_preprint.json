@@ -1,13 +1,14 @@
 [
 	{
-		"refID": "Mignan&Broccardo_arXiv1904.01983",
+		"refID": "Mignan&Broccardo_arXiv1910.01178",
 		"authors": "Mignan A., Broccardo M.",
 		"year": 2019,
-		"title": "One neuron is more informative than a deep neural network for aftershock pattern forecasting",
-		"id" : "arXiv:1904.01983",
-		"link": "https://arxiv.org/abs/1904.01983",
+		"title": "Neural Network Applications in Earthquake Prediction (1994-2019): Meta-Analytic Insight on their Limitations",
+		"id" : "arXiv:1910.01178",
+		"link": "https://arxiv.org/abs/1910.01178",
 		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category2": "earthquake history",
+		"category3": "NA",
 		"subcategory": "statistical learning"
 	}
 ]
