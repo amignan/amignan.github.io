@@ -43,13 +43,31 @@
         var n = arrItems.length;
         for (i = 0; i < n; i++) if (arrItems[i].category1 == "multi-peril risk" |
           arrItems[i].category2 == "multi-peril risk") {
-          txt = txt.concat("[", n - i, "] ", arrItems[i].authors, " (", arrItems[i].year, "), ",
-            arrItems[i].title, ", <a href='", arrItems[i].link, "' target = _blank>",
+            txt = txt.concat("[", n - i, "] ", arrItems[i].authors, " (", arrItems[i].year, "), ",
+            arrItems[i].title, ". <i>", arrItems[i].source, "</i>, ", "<a href='", arrItems[i].link, "' target = _blank>",
             arrItems[i].id, "</a><br><br>");
+
         }
         document.getElementById('preprint').innerHTML = txt;
       });
     });
+      $(document).ready(function () {
+        $.getJSON("dat/publ_amignan_other.json", function (data) {
+          var arrItems = [];      // THE ARRAY TO STORE JSON ITEMS.
+          $.each(data, function (index, value) {
+            arrItems.push(value);       // PUSH THE VALUES INSIDE THE ARRAY.
+          });
+          var txt = "";
+          var n = arrItems.length;
+          for (i = 0; i < n; i++) if (arrItems[i].category1 == "multi-peril risk" |
+            arrItems[i].category2 == "multi-peril risk") {
+            txt = txt.concat("[", n - i, "] ", arrItems[i].authors, " (", arrItems[i].year, "), ",
+              arrItems[i].title, ", <a href='", arrItems[i].link, "' target = _blank>",
+              arrItems[i].id, "</a><br><br>");
+          }
+          document.getElementById('other').innerHTML = txt;
+        });
+      });
   </script>
 
 </head>
@@ -98,6 +116,7 @@
     <p id="peer_reviewed"></p>
     
     <h4>Other articles</h4>
+    <p id="other"></p>
 
       </main>
     <footer><p>&copy; Arnaud Mignan, 2019</p></footer>
