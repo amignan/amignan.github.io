@@ -1,6 +1,7 @@
 html{overflow-y: scroll;}
 body{margin: 10px; padding: 0px; background: #4C5E71;
-    font: 15px Arial, Helvetica, Geneva, SunSans-Regular, sans-serif;}
+    font: 1vw Arial, Helvetica, Geneva, SunSans-Regular, sans-serif;
+    line-height: 20px;}
 #wrapper{margin: 0 auto;}
 
 header{float: left; color: white;}
@@ -32,8 +33,10 @@ nav .dropdown-content a:hover {background-color: #eee;}
 nav .dropdown:hover .dropdown-content {display: block;}
 
 main div {clear:both;}
-main a{text-decoration: none; cursor: pointer; color: #4C5E71;}
+main a{text-decoration: none; cursor: pointer;}
 main a:hover{color: #000;}
-main img{width:15%; float: left; border: none; padding: 0 10px 10px 0;}
+main img{width:100%; float: left; border: none; padding: 0 10px 10px 0;}
 main span{color: #4C5E71;}
 main hr{clear:both;}
+
+.inset{width: 50%; float: left; clear:both;}
