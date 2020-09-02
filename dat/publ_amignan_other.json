@@ -1,5 +1,31 @@
 [
 	{
+		"refID": "Mignan_MediumTDS2020",
+		"authors": "Mignan A.",
+		"year": 2020,
+		"title": "World2 model, from DYNAMO to R",
+		"source": "Towards Data Science",
+		"id": "Medium post",
+		"link": "https://towardsdatascience.com/world2-model-from-dynamo-to-r-2e44fdbd0975",
+		"category1": "x_Global",
+		"category2": "motto_RiskCalc",
+		"category3": "NA",
+		"category4": "NA"
+	},
+	{
+		"refID": "Mignan_MediumTDS2019",
+		"authors": "Mignan A.",
+		"year": 2019,
+		"title": "Mixture modelling from scratch, in R",
+		"source": "Towards Data Science",
+		"id": "Medium post",
+		"link": "https://towardsdatascience.com/mixture-modelling-from-scratch-in-r-5ab7bfc83eef",
+		"category1": "NA",
+		"category2": "NA",
+		"category3": "NA",
+		"category4": "NA"
+	},
+	{
 		"refID": "Matos_etal_ICOLD2018",
 		"authors": "Matos J., Mignan A., Schleiss A.",
 		"year": 2018,
@@ -7,10 +33,10 @@
 		"source": "Proceedings of the 26th International Congress on Large Dams, ICOLD, 322-344",
 		"id" : "link (EPFL wall)",
 		"link": "https://infoscience.epfl.ch/record/256780",
-		"category1": "critical-infrastructure risk",
-		"category2": "multi-peril risk",
+		"category1": "peril_CF",
+		"category2": "motto_RiskCalc",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Jafarimanesh_etal_ICONHIC2016",
@@ -20,10 +46,10 @@
 		"source": "1st International Conference on Natural Hazards & Infrastructure, 28-30 June, 2016, Chania, Greece, 9 pp.",
 		"id": "external link",
 		"link": "http://strest.ethz.ch/opencms/export/sites/default/.content/STREST_public/ref_Jafarimanesh_etal_ICONIC2016.pdf",
-		"category1": "multi-peril risk",
-		"category2": "mass-slide risk",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_MS",
+		"category2": "motto_RiskCalc",
+		"category3": "x_Multi",
+		"category4": "NA"
 	},
 	{
 		"refID": "Matos_etal_ICOLD2015",
@@ -33,10 +59,10 @@
 		"source": "Proceedings of the 13th ICOLD Benchmark Workshop on the Numerical Analysis of Dams, Lausanne, Switzerland, 285-292",
 		"id": "external link",
 		"link": "http://strest.ethz.ch/opencms/export/sites/default/.content/STREST_public/ref_Matos_etal_13ICOLD2015.pdf",
-		"category1": "critical-infrastructure risk",
-		"category2": "multi-peril risk",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_CF",
+		"category2": "motto_RiskCalc",
+		"category3": "x_Multi",
+		"category4": "NA"
 	},
 	{
 		"refID": "Giardini&Mignan_PanEUnet2014",
@@ -46,10 +72,10 @@
 		"source": "Pan European Networks: Government, Cyber Security, 11, 234-235",
 		"id": "no link",
 		"link": "#",
-		"category1": "critical-infrastructure risk",
-		"category2": "multi-peril risk",
+		"category1": "peril_CF",
+		"category2": "motto_RiskGov",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mrzyglocki&Mignan_Bevoelkerungsschutz2013",
@@ -59,10 +85,10 @@
 		"source": "Bevölkerungsschutz, Bundesamt für Bevölkerungschultz und Katastrophenhilfe, 2, 32-35",
 		"id": "PDF",
 		"link": "dat/2013_Mrzyglocki&Mignan_MATRIX_BBK.pdf",
-		"category1": "multi-peril risk",
+		"category1": "x_Multi",
 		"category2": "NA",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan&Reed_Meteorite2012",
@@ -72,10 +98,10 @@
 		"source": "Meteorite, 18 (3), 10-13",
 		"id": "PDF",
 		"link": "dat/2012_Mignan&Reed_Meteorite.pdf",
-		"category1": "NA",
+		"category1": "y_HistColl",
 		"category2": "NA",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_Meteorite2011",
@@ -85,10 +111,10 @@
 		"source": "Meteorite, 17 (4), 34-38",
 		"id": "PDF",
 		"link": "dat/2011_Mignan_Meteorite.pdf",
-		"category1": "NA",
+		"category1": "y_HistSci",
 		"category2": "NA",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_RMSreport2009",
@@ -98,10 +124,10 @@
 		"source": "RMS Special Report, Risk Management Solutions, 16 pp.",
 		"id": "PDF",
 		"link": "dat/2009_Mignan_RMSreport.pdf",
-		"category1": "exotic risk",
-		"category2": "NA",
+		"category1": "peril_AI",
+		"category2": "motto_RiskCalc",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Ericksen_etal_RMSreport2008",
@@ -111,10 +137,10 @@
 		"source": "Proceedings of the 2008 RMS Science Symposium, 51 pp.",
 		"id": "link",
 		"link": "https://forms2.rms.com/rs/729-DJX-565/images/eq_advancesin_eq_forecasting.pdf",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_RMSreport2008",
@@ -124,9 +150,9 @@
 		"source": "RMS Special Report, Risk Management Solutions, 21 pp.",
 		"id": "link",
 		"link": "https://forms2.rms.com/rs/729-DJX-565/images/eq_clustering_due_stress_interactions.pdf",
-		"category1": "earthquake forecasting",
-		"category2": "earthquake history",
+		"category1": "peril_EQ",
+		"category2": "motto_RiskCalc",
 		"category3": "NA",
-		"subcategory": "physical theory"
+		"category4": "NA"
 	}
 ]

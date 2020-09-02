@@ -9,10 +9,10 @@
 		"pages": "116402",
 		"id": "doi: 10.1016/j.epsl.2020.116402",
 		"link": "https://www.sciencedirect.com/science/article/abs/pii/S0012821X20303460",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
 		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category4": "NA"
 	},
 	{
 		"refID": "Broccardo_etal_NHESS2020",
@@ -24,10 +24,10 @@
 		"pages": "1573-1593",
 		"id": "doi: 10.5194/nhess-20-1573-2020",
 		"link": "https://www.nat-hazards-earth-syst-sci.net/20/1573/2020/",
-		"category1": "earthquake risk",
-		"category2": "critical-infrastructure risk",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_EQ",
+		"category2": "peril_CF",
+		"category3": "motto_RiskCalc",
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan&Broccardo_SRL2020",
@@ -35,14 +35,14 @@
 		"year": 2020,
 		"title": "Neural Network Applications in Earthquake Prediction (1994-2019): Meta-Analytic and Statistical Insights on Their Limitations",
 		"journal": "Seismological Research Letters",
-		"volume": "X (coming soon)",
-		"pages": "x-x",
+		"volume": "91 (4)",
+		"pages": "2330-2342",
 		"id": "doi: 10.1785/0220200021",
 		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/doi/10.1785/0220200021/586519/Neural-Network-Applications-in-Earthquake?redirectedFrom=fulltext",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
+		"category3": "motto_HistMeta",
+		"category4": "NA"
 	},
 	{
 		"refID": "Villiger_etal_SolidEarth2020",
@@ -54,10 +54,10 @@
 		"pages": "627-655",
 		"id": "doi: 10.5194/se-11-627-2020",
 		"link": "https://se.copernicus.org/articles/11/627/2020/se-11-627-2020-discussion.html",
-		"category1": "earthquake varia",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredPhys",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Argyroudis_etal_NatHaz2020",
@@ -69,10 +69,10 @@
 		"pages": "595-633",
 		"id": "doi: 10.1007/s11069-019-03828-5",
 		"link": "https://link.springer.com/article/10.1007/s11069-019-03828-5",
-		"category1": "critical-infrastructure risk",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_CF",
+		"category2": "peril_NF",
+		"category3": "motto_RiskCalc",
+		"category4": "motto_RiskGov"
 	},
 	{
 		"refID": "Mignan_Temblor2019",
@@ -84,10 +84,10 @@
 		"pages": "online",
 		"id": "doi: 10.32858/temblor.053",
 		"link": "https://temblor.net/earthquake-insights/forecasting-aftershocks-back-to-square-one-after-a-deep-learning-anticlimax-10068/",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
 		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan&Broccardo_Nature2019",
@@ -99,10 +99,10 @@
 		"pages": "E1-E3",
 		"id": "doi: 10.1038/s41586-019-1582-8",
 		"link": "https://www.nature.com/articles/s41586-019-1582-8",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
 		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_GJI2019",
@@ -114,10 +114,10 @@
 		"pages": "1348-1364",
 		"id": "doi: 10.1093/gji/ggz373",
 		"link": "https://academic.oup.com/gji/article-abstract/219/2/1348/5548774?redirectedFrom=fulltext",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredMining",
 		"category3": "NA",
-		"subcategory": "data mining"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_AISC2020",
@@ -129,10 +129,10 @@
 		"pages": "30-43",
 		"id" : "doi: 10.1007/978-3-030-17798-0_4",
 		"link": "https://link.springer.com/chapter/10.1007/978-3-030-17798-0_4",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredMining",
 		"category3": "NA",
-		"subcategory": "data mining"
+		"category4": "NA"
 	},
 	{
 		"refID": "Esposito_etal_JInfraSys2019",
@@ -144,10 +144,10 @@
 		"pages": "04019035",
 		"id" : "doi: 10.1061/(ASCE)IS.1943-555X.0000520",
 		"link": "https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29IS.1943-555X.0000520",
-		"category1": "critical-infrastructure risk",
-		"category2": "NA",
+		"category1": "peril_CF",
+		"category2": "motto_RiskGov",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan&Broccardo_LNCS2019",
@@ -159,10 +159,10 @@
 		"pages": "3-14",
 		"id" : "doi: 10.1007/978-3-030-20521-8_1",
 		"link": "https://link.springer.com/chapter/10.1007/978-3-030-20521-8_1",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
 		"category3": "NA",
-		"subcategory": "statistical learning"	
+		"category4": "NA"	
 	},
 	{
 		"refID": "Mignan_JOSE2019",
@@ -174,10 +174,10 @@
 		"pages": "771-785",
 		"id" : "doi: 10.1007/s10950-019-09833-2",
 		"link": "https://link.springer.com/article/10.1007/s10950-019-09833-2",
-		"category1": "earthquake history",
-		"category2": "earthquake forecasting",
-		"category3": "NA",
-		"subcategory": "physical theory"
+		"category1": "peril_EQ",
+		"category2": "motto_HistMeta",
+		"category3": "motto_PredPhys",
+		"category4": "motto_PredStat"
 	},
 	{
 		"refID": "Staudenmaier_etal_EPSL2019",
@@ -189,10 +189,10 @@
 		"pages": "77-107",
 		"id" : "doi: 10.1016/j.epsl.2019.04.006",
 		"link": "https://www.sciencedirect.com/science/article/pii/S0012821X19302031",
-		"category1": "earthquake varia",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_EQ",
+		"category2": "motto_PredPhys",
+		"category3": "motto_HistData",
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_etal_APEN2019",
@@ -204,10 +204,10 @@
 		"pages": "831-850",
 		"id" : "doi: 10.1016/j.apenergy.2019.01.109",
 		"link": "https://www.sciencedirect.com/science/article/pii/S0306261919301230",
-		"category1": "earthquake risk",
-		"category2": "critical-infrastructure risk",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_EQ",
+		"category2": "peril_CF",
+		"category3": "motto_RiskCalc",
+		"category4": "motto_RiskGov"
 	},
 	{
 		"refID": "Mignan_etal_EnergyGeotech2019",
@@ -219,10 +219,10 @@
 		"pages": "369-376",
 		"id" : "doi: 10.1007/978-3-319-99670-7_46",
 		"link": "https://link.springer.com/chapter/10.1007/978-3-319-99670-7_46",
-		"category1": "earthquake risk",
-		"category2": "critical-infrastructure risk",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_EQ",
+		"category2": "peril_CF",
+		"category3": "motto_RiskGov",
+		"category4": "NA"
 	},
 	{
 		"refID": "Seif_etal_BSSA2019",
@@ -234,10 +234,10 @@
 		"pages": "1-18",
 		"id" : "doi: 10.1785/0120170188",
 		"link": "https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/109/1/1/567482/foreshocks-and-their-potential-deviation-from?redirectedFrom=fulltext",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
 		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_Colligo2018",
@@ -249,10 +249,10 @@
 		"pages": "35-50",
 		"id" : "perma: YQ5W-BN5Z",
 		"link": "http://revue-colligo.fr/index.php/vol-1-num-2?id=19",
-		"category1": "collecting",
+		"category1": "y_HistColl",
 		"category2": "NA",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Woo&Mignan_SRL2018",
@@ -264,10 +264,10 @@
 		"pages": "2266-2273",
 		"id" : "doi: 10.1785/0220180138",
 		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/89/6/2266/565695/counterfactual-analysis-of-runaway-earthquakes?redirectedFrom=fulltext",
-		"category1": "earthquake risk",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_EQ",
+		"category2": "motto_RiskCalc",
+		"category3": "x_Tail",
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_NPG2018",
@@ -279,10 +279,10 @@
 		"pages": "241-250",
 		"id" : "doi: 10.5194/npg-25-241-2018",
 		"link": "https://www.nonlin-processes-geophys.net/25/241/2018/",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredPhys",
 		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_etal_NHAZ2018",
@@ -290,14 +290,14 @@
 		"year": 2018,
 		"title": "Considering large earthquake clustering in seismic risk analysis",
 		"journal": "Natural Hazards",
-		"volume": "91, Supplement 1",
+		"volume": "91 (Supplement 1)",
 		"pages": "149–172",
 		"id" : "doi: 10.1007/s11069-016-2549-9",
 		"link": "https://link.springer.com/article/10.1007/s11069-016-2549-9",
-		"category1": "earthquake risk",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_EQ",
+		"category2": "motto_RiskCalc",
+		"category3": "x_Multi",
+		"category4": "NA"
 	},
 	{
 		"refID": "Scolobig_etal_Geosci2017",
@@ -309,10 +309,10 @@
 		"pages": "129",
 		"id" : "doi: 10.3390/geosciences7040129",
 		"link": "https://www.mdpi.com/2076-3263/7/4/129",
-		"category1": "multi-peril risk",
-		"category2": "NA",
+		"category1": "motto_RiskGov",
+		"category2": "x_Multi",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Broccardo_etal_GRL2017",
@@ -324,10 +324,10 @@
 		"pages": "11,357-11,367",
 		"id" : "doi: 10.1002/2017GL075251",
 		"link": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017GL075251",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_EQ",
+		"category2": "peril_CF",
+		"category3": "motto_PredStat",
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_etal_SciRep2017",
@@ -339,10 +339,10 @@
 		"pages": "13607",
 		"id" : "doi: 10.1038/s41598-017-13585-9",
 		"link": "https://www.nature.com/articles/s41598-017-13585-9",
-		"category1": "earthquake risk",
-		"category2": "critical-infrastructure risk",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_EQ",
+		"category2": "peril_CF",
+		"category3": "motto_RiskGov",
+		"category4": "motto_PredStat"
 	},
 	{
 		"refID": "Mignan_etal_HandbookDRRM2017",
@@ -354,10 +354,10 @@
 		"pages": "357-381",
 		"id" : "doi: 10.1142/9789813207950_0014",
 		"link": "https://www.worldscientific.com/doi/abs/10.1142/9789813207950_0014",
-		"category1": "multi-peril risk",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "motto_RiskCalc",
+		"category2": "motto_RiskGov",
+		"category3": "x_Multi",
+		"category4": "NA"
 	},
 	{
 		"refID": "Panzera_etal_JOSE2017",
@@ -369,10 +369,10 @@
 		"pages": "615–630",
 		"id" : "doi: 10.1007/s10950-016-9623-3",
 		"link": "https://link.springer.com/article/10.1007/s10950-016-9623-3",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredMining",
 		"category3": "NA",
-		"subcategory": "data mining"
+		"category4": "NA"
 	},
 	{
 		"refID": "Seif_etal_JGR2017",
@@ -384,10 +384,10 @@
 		"pages": "449-469",
 		"id" : "doi: 10.1002/2016JB012809",
 		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JB012809",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
 		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_SRL2016b",
@@ -399,10 +399,10 @@
 		"pages": "1134-1137",
 		"id" : "doi: 10.1785/0220160110",
 		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/87/5/1134/314190/reply-to-comment-on-revisiting-the-1894-omori?redirectedFrom=fulltext",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
 		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_NPG2016",
@@ -414,10 +414,10 @@
 		"pages": "107-113",
 		"id" : "doi: 10.5194/npg-23-107-2016",
 		"link": "https://www.nonlin-processes-geophys.net/23/107/2016/",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredPhys",
 		"category3": "NA",
-		"subcategory": "physical theory"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_etal_DPM2016",
@@ -429,10 +429,10 @@
 		"pages": "329-344",
 		"id" : "doi: 10.1108/DPM-06-2015-0137",
 		"link": "https://www.emeraldinsight.com/doi/abs/10.1108/DPM-06-2015-0137",
-		"category1": "multi-peril risk",
-		"category2": "NA",
+		"category1": "x_Multi",
+		"category2": "motto_RiskGov",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_Meteorites2016",
@@ -444,10 +444,10 @@
 		"pages": "11-22",
 		"id" : "doi: 10.5277/met160102",
 		"link": "http://www.meteorites.pwr.wroc.pl/issues/4/MignanFINAL.pdf",
-		"category1": "collecting",
+		"category1": "y_HistColl",
 		"category2": "NA",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_SRL2016a",
@@ -459,10 +459,10 @@
 		"pages": "685-689",
 		"id" : "doi: 10.1785/0220150230",
 		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/87/3/685/315685/revisiting-the-1894-omori-aftershock-dataset-with?redirectedFrom=fulltext",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
+		"category3": "motto_HistData",
+		"category4": "y_HistSci"
 	},
 	{
 		"refID": "Mignan&Chen_PAGEOPH2016",
@@ -474,10 +474,10 @@
 		"pages": "117–124",
 		"id" : "doi: 10.1007/s00024-015-1133-7",
 		"link": "https://link.springer.com/article/10.1007/s00024-015-1133-7",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredMining",
 		"category3": "NA",
-		"subcategory": "data mining"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_GRL2015",
@@ -489,10 +489,10 @@
 		"pages": "9726-9732",
 		"id" : "doi: 10.1002/2015GL066232",
 		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL066232",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
+		"category3": "motto_HistMeta",
+		"category4": "NA"
 	},
 	{
 		"refID": "Liu_etal_Georisk2015",
@@ -504,10 +504,10 @@
 		"pages": "59-74",
 		"id" : "doi: 10.1080/17499518.2015.1041989",
 		"link": "https://www.tandfonline.com/doi/full/10.1080/17499518.2015.1041989",
-		"category1": "multi-peril risk",
-		"category2": "NA",
+		"category1": "x_Multi",
+		"category2": "motto_RiskCalc",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_etal_SRL2015",
@@ -519,10 +519,10 @@
 		"pages": "890-900",
 		"id" : "doi: 10.1785/0220140252",
 		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/86/3/890/315715/reassessment-of-the-maximum-fault-rupture-length?redirectedFrom=fulltext",
-		"category1": "earthquake risk",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_EQ",
+		"category2": "motto_RiskCalc",
+		"category3": "x_Tail",
+		"category4": "NA"
 	},
 	{
 		"refID": "Cara_etal_BSGF2015",
@@ -534,10 +534,10 @@
 		"pages": "3-19",
 		"id" : "doi: 10.2113/gssgfbull.186.1.3",
 		"link": "https://pubs.geoscienceworld.org/sgf/bsgf/article-abstract/186/1/3/141517/si-hex-a-new-catalogue-of-instrumental-seismicity?redirectedFrom=fulltext",
-		"category1": "earthquake varia",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_HistData",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_etal_Geothermics2015",
@@ -549,10 +549,10 @@
 		"pages": "133-146",
 		"id" : "doi: 10.1016/j.geothermics.2014.05.007",
 		"link": "https://www.sciencedirect.com/science/article/pii/S0375650514000613",
-		"category1": "earthquake risk",
-		"category2": "critical-infrastructure risk",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_EQ",
+		"category2": "peril_CF",
+		"category3": "motto_RiskCalc",
+		"category4": "motto_RiskGov"
 	},
 	{
 		"refID": "Mignan_etal_NHAZ2014",
@@ -564,10 +564,10 @@
 		"pages": "1999–2022",
 		"id" : "doi: 10.1007/s11069-014-1178-4",
 		"link": "https://link.springer.com/article/10.1007/s11069-014-1178-4",
-		"category1": "multi-peril risk",
-		"category2": "NA",
+		"category1": "x_Multi",
+		"category2": "motto_RiskCalc",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Tormann_etal_JGR2014",
@@ -579,10 +579,10 @@
 		"pages": "2029-2054",
 		"id" : "doi: 10.1002/2013JB010867",
 		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013JB010867",
-		"category1": "earthquake varia",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan&Chouliaras_SRL2014",
@@ -594,10 +594,10 @@
 		"pages": "657-667",
 		"id" : "doi: 10.1785/0220130209",
 		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/85/3/657/315375/fifty-years-of-seismic-network-performance-in?redirectedFrom=fulltext",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredMining",
 		"category3": "NA",
-		"subcategory": "data mining"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_SciRep2014",
@@ -609,10 +609,10 @@
 		"pages": "4099",
 		"id" : "doi: 10.1038/srep04099",
 		"link": "https://www.nature.com/articles/srep04099",
-		"category1": "earthquake history",
-		"category2": "earthquake forecasting",
-		"category3": "NA",
-		"subcategory": "data mining"
+		"category1": "peril_EQ",
+		"category2": "motto_HistMeta",
+		"category3": "motto_PredStat",
+		"category4": "motto_PredMining"
 	},
 	{
 		"refID": "Komendantova_etal_IJDRR2014",
@@ -624,10 +624,10 @@
 		"pages": "50-67",
 		"id" : "doi: 10.1016/j.ijdrr.2013.12.006",
 		"link": "https://www.sciencedirect.com/science/article/pii/S221242091300068X",
-		"category1": "multi-peril risk",
-		"category2": "NA",
+		"category1": "x_Multi",
+		"category2": "motto_RiskGov",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Kraft_etal_GJI2013",
@@ -639,10 +639,10 @@
 		"pages": "474–490",
 		"id" : "doi: 10.1093/gji/ggt225",
 		"link": "https://academic.oup.com/gji/article/195/1/474/601101",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredMining",
 		"category3": "NA",
-		"subcategory": "data mining"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_etal_BSSA2013",
@@ -654,10 +654,10 @@
 		"pages": "845-859",
 		"id" : "doi: 10.1785/0120120052",
 		"link": "https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/103/2A/845/331723/completeness-of-the-mainland-china-earthquake?redirectedFrom=fulltext",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredMining",
 		"category3": "NA",
-		"subcategory": "data mining"
+		"category4": "NA"
 	},
 	{
 		"refID": "Nanda_etal_NPG2013",
@@ -669,10 +669,10 @@
 		"pages": "143-162",
 		"id" : "doi: 10.5194/npg-20-143-2013",
 		"link": "https://www.nonlin-processes-geophys.net/20/143/2013/",
-		"category1": "earthquake forecasting",
+		"category1": "peril_EQ",
 		"category2": "NA",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_GRL2012",
@@ -684,10 +684,10 @@
 		"pages": "L21308",
 		"id" : "doi: 10.1029/2012GL053946",
 		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GL053946",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredPhys",
 		"category3": "NA",
-		"subcategory": "physical theory"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_JGR2012",
@@ -699,10 +699,10 @@
 		"pages": "B08302",
 		"id" : "doi: 10.1029/2012JB009347",
 		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012JB009347",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredMining",
 		"category3": "NA",
-		"subcategory": "data mining"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan&Woessner_CORSSA2012",
@@ -714,10 +714,10 @@
 		"pages": "1-45",
 		"id" : "doi: 10.5078/corssa-00180805",
 		"link": "http://www.corssa.org/export/sites/corssa/.galleries/articles-pdf/Mignan-Woessner-2012-CORSSA-Magnitude-of-completeness.pdf",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredMining",
 		"category3": "NA",
-		"subcategory": "data mining"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_etal_BSSA2011",
@@ -729,10 +729,10 @@
 		"pages": "1371-1385",
 		"id" : "doi: 10.1785/0120100223",
 		"link": "https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/101/3/1371/349687",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredMining",
 		"category3": "NA",
-		"subcategory": "data mining"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_Tectonophys2011",
@@ -744,10 +744,10 @@
 		"pages": "1-16",
 		"id" : "doi: 10.1016/j.tecto.2011.03.010",
 		"link": "https://www.sciencedirect.com/science/article/pii/S0040195111001284",
-		"category1": "earthquake history",
-		"category2": "earthquake forecasting",
-		"category3": "NA",
-		"subcategory": "physical theory"
+		"category1": "peril_EQ",
+		"category2": "motto_HistMeta",
+		"category3": "motto_PredPhys",
+		"category4": "y_HistSci"
 	},
 	{
 		"refID": "Mignan_etal_NHAZ2011",
@@ -759,10 +759,10 @@
 		"pages": "869–880",
 		"id" : "doi: 10.1007/s11069-010-9597-3",
 		"link": "https://link.springer.com/article/10.1007/s11069-010-9597-3",
-		"category1": "exotic risk",
-		"category2": "NA",
+		"category1": "peril_AI",
+		"category2": "motto_RiskCalc",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Pinzuti_etal_EPSL2011",
@@ -774,10 +774,10 @@
 		"pages": "169-179",
 		"id" : "doi: 10.1016/j.epsl.2010.08.032",
 		"link": "https://www.sciencedirect.com/science/article/pii/S0012821X10005443",
-		"category1": "earthquake varia",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_HistData",
 		"category3": "NA",
-		"subcategory": "NA"
+		"category4": "NA"
 	},
 	{
 		"refID": "Tiampo_etal_PAGEOPH2010",
@@ -789,10 +789,10 @@
 		"pages": "763–782",
 		"id" : "doi: 10.1007/s00024-010-0076-2",
 		"link": "https://link.springer.com/article/10.1007/s00024-010-0076-2",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
 		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan&Tiampo_Tectonophys2010",
@@ -804,10 +804,10 @@
 		"pages": "255-268",
 		"id" : "doi: ",
 		"link": "https://www.sciencedirect.com/science/article/pii/S0040195109006052",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category1": "peril_EQ",
+		"category2": "motto_PredPhys",
+		"category3": "motto_PredStat",
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan&DiGiovambattista_GRL2009",
@@ -819,10 +819,10 @@
 		"pages": "L17304",
 		"id" : "doi: 10.1029/2009GL039871",
 		"link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2009GL039871",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category1": "peril_EQ",
+		"category2": "motto_PredStat",
+		"category3": "motto_PredPhys",
+		"category4": "NA"
 	},
 	{
 		"refID": "MuirWood&Mignan_GGEE2009",
@@ -834,10 +834,10 @@
 		"pages": "121-146",
 		"id" : "doi: 10.1007/978-1-4020-8609-0_8",
 		"link": "https://link.springer.com/chapter/10.1007/978-1-4020-8609-0_8",
-		"category1": "earthquake history",
-		"category2": "earthquake risk",
-		"category3": "NA",
-		"subcategory": "data mining"
+		"category1": "peril_EQ",
+		"category2": "motto_HistData",
+		"category3": "motto_RiskCalc",
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan&DiGiovambattista_GRL2008",
@@ -849,10 +849,10 @@
 		"pages": "L15306",
 		"id" : "doi: 10.1029/2008GL035024",
 		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GL035024",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category1": "peril_EQ",
+		"category2": "motto_PredPhys",
+		"category3": "motto_PredStat",
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_Tectonophys2008",
@@ -864,10 +864,10 @@
 		"pages": "42-50",
 		"id" : "doi: 10.1016/j.tecto.2008.02.010",
 		"link": "https://www.sciencedirect.com/science/article/pii/S0040195108001029",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category1": "peril_EQ",
+		"category2": "motto_PredPhys",
+		"category3": "motto_PredStat",
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_AGEOPH2008",
@@ -879,10 +879,10 @@
 		"pages": "67-201",
 		"id" : "doi: 10.1016/S0065-2687(07)49002-1",
 		"link": "https://www.sciencedirect.com/science/article/abs/pii/S0065268707490021",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "NA"
+		"category1": "peril_EQ",
+		"category2": "motto_PredPhys",
+		"category3": "motto_PredStat",
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_etal_JGR2007",
@@ -894,10 +894,10 @@
 		"pages": "B07308",
 		"id" : "doi: 10.1029/2006JB004671",
 		"link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2006JB004671",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
+		"category1": "peril_EQ",
+		"category2": "motto_PredPhys",
 		"category3": "NA",
-		"subcategory": "physical theory"
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_etal_JGR2006",
@@ -909,10 +909,10 @@
 		"pages": "B11304",
 		"id" : "doi: 10.1029/2006JB004374",
 		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2006JB004374",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category1": "peril_EQ",
+		"category2": "motto_PredPhys",
+		"category3": "motto_PredStat",
+		"category4": "NA"
 	},
 	{
 		"refID": "Mignan_etal_EPSL2006",
@@ -924,9 +924,9 @@
 		"pages": "639-654",
 		"id" : "doi: 10.1016/j.epsl.2006.01.058",
 		"link": "https://www.sciencedirect.com/science/article/pii/S0012821X06001105",
-		"category1": "earthquake forecasting",
-		"category2": "NA",
-		"category3": "NA",
-		"subcategory": "statistical learning"
+		"category1": "peril_EQ",
+		"category2": "motto_PredPhys",
+		"category3": "motto_PredStat",
+		"category4": "NA"
 	}
 ]
