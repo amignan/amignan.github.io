@@ -1,0 +1,200 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Publications</title>
+  <meta name="description" content="amignan's catastrophe risk R&D publications">
+  <meta name="author" content="Arnaud Mignan">
+
+  <link rel="stylesheet" href="assets/css/mystyle.css">
+  <script src="https://kit.fontawesome.com/2c06301120.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+
+    <script>
+      $(document).ready(function () {
+        $.getJSON("dat/publ_amignan_peer_reviewed.json", function (data) {
+          var arrItems = [];      // THE ARRAY TO STORE JSON ITEMS.
+          $.each(data, function (index, value) {
+            arrItems.push(value);       // PUSH THE VALUES INSIDE THE ARRAY.
+          });
+          var txt = "";
+          var n = arrItems.length;
+          for (i = 0; i < n; i++) if (arrItems[i].category1 == "y_HistSci" | arrItems[i].category2 == "y_HistSci"
+        | arrItems[i].category3 == "y_HistSci" | arrItems[i].category4 == "y_HistSci") {
+            txt = txt.concat("[", n - i, "] ", arrItems[i].authors, " (", arrItems[i].year, "), ",
+              arrItems[i].title, ". <i>", arrItems[i].journal, "</i>, ", arrItems[i].volume,
+              ", ", arrItems[i].pages, ", <a href='", arrItems[i].link, "' target = _blank>",
+              arrItems[i].id, "</a><br><br>");
+          }
+          document.getElementById('peer_reviewed').innerHTML = txt;
+        });
+      });
+      $(document).ready(function () {
+        $.getJSON("dat/publ_amignan_preprint.json", function (data) {
+          var arrItems = [];      // THE ARRAY TO STORE JSON ITEMS.
+          $.each(data, function (index, value) {
+            arrItems.push(value);       // PUSH THE VALUES INSIDE THE ARRAY.
+          });
+          var txt = "";
+          var n = arrItems.length;
+          for (i = 0; i < n; i++) if (arrItems[i].category1 == "y_HistSci" | arrItems[i].category2 == "y_HistSci"
+        | arrItems[i].category3 == "y_HistSci" | arrItems[i].category4 == "y_HistSci") {
+            txt = txt.concat("[", n - i, "] ", arrItems[i].authors, " (", arrItems[i].year, "), ",
+              arrItems[i].title, ", <a href='", arrItems[i].link, "' target = _blank>",
+              arrItems[i].id, "</a><br><br>");
+          }
+          document.getElementById('preprint').innerHTML = txt;
+        });
+      });
+        $(document).ready(function () {
+          $.getJSON("dat/publ_amignan_other.json", function (data) {
+            var arrItems = [];      // THE ARRAY TO STORE JSON ITEMS.
+            $.each(data, function (index, value) {
+              arrItems.push(value);       // PUSH THE VALUES INSIDE THE ARRAY.
+            });
+            var txt = "";
+            var n = arrItems.length;
+            for (i = 0; i < n; i++) if (arrItems[i].category1 == "y_HistSci" | arrItems[i].category2 == "y_HistSci"
+          | arrItems[i].category3 == "y_HistSci" | arrItems[i].category4 == "y_HistSci") {
+              txt = txt.concat("[", n - i, "] ", arrItems[i].authors, " (", arrItems[i].year, "), ",
+                arrItems[i].title, ". <i>", arrItems[i].source, "</i>, ", "<a href='", arrItems[i].link, "' target = _blank>",
+                arrItems[i].id, "</a><br><br>");
+            }
+            document.getElementById('other').innerHTML = txt;
+          });
+        });
+        $(document).ready(function () {
+          $.getJSON("dat/publ_amignan_books.json", function (data) {
+            var arrItems = [];      // THE ARRAY TO STORE JSON ITEMS.
+            $.each(data, function (index, value) {
+              arrItems.push(value);       // PUSH THE VALUES INSIDE THE ARRAY.
+            });
+            var txt = "";
+            var n = arrItems.length;
+            for (i = 0; i < n; i++) if (arrItems[i].category1 == "y_HistSci" | arrItems[i].category2 == "y_HistSci"
+          | arrItems[i].category3 == "y_HistSci" | arrItems[i].category4 == "y_HistSci") {
+              txt = txt.concat("[", n - i, "] ", arrItems[i].authors, " (", arrItems[i].year, "), ",
+                arrItems[i].title, ". <i>", arrItems[i].publisher, "</i>, ", "<a href='", arrItems[i].link, "' target = _blank>",
+                arrItems[i].id, "</a><br><br>");
+            }
+            document.getElementById('books').innerHTML = txt;
+          });
+        });
+    </script>
+
+</head>
+
+<body>
+  <div id="wrapper">
+
+    <header>
+        <h1><a href="index.html">amignan</a> &emsp; <span>catastrophe risk R&D</span> &emsp;
+          <a href="https://github.com/amignan" title="GitHub repositories" target = _blank><i class="fab fa-github"></i></a>
+          <a href="https://www.youtube.com/channel/UCmy3xQjYjF8zNgCWtLrTpOA" title="Youtube channel" target = _blank><i class="fab fa-youtube"></i></a>
+          <a href="https://www.linkedin.com/in/amignan/" title="LinkedIn profile" target = _blank><i class="fab fa-linkedin-in"></i></a>
+          <a href="https://twitter.com/ArnaudMignan" title="Twitter posts" target = _blank><i class="fab fa-twitter"></i></a></h1>
+        <h3><a href="resdev.html"><i class="fas fa-brain"></i> R&D Projects</a> &emsp;
+        <b><i class="fas fa-book-open"></i> All Publications</b> &emsp;
+        <a href="https://medium.com/the-history-risk-forecast-of-perils" target=_blank><i class="fab fa-medium-m"></i> The History, Risk & Forecast of Perils</a>
+
+      </h3>
+    </header>
+
+    <main>
+
+        <nav>
+            <nav class="dropdown">
+                <a href="publications.html"><button class="dropbtn"><b>All Publications</b></button></a>
+            </nav>
+            <nav class="dropdown">
+               | <button class="dropbtn">History<i class="fa fa-caret-down"></i> </button>
+               <nav class="dropdown-content">
+                   <a href="publi_motto_HistData.html">Historical data</a>
+                   <a href="publi_motto_HistMeta.html">Meta-analysis</a>
+               </nav>
+            </nav>
+            <nav class="dropdown">
+              <button class="dropbtn">Risk<i class="fa fa-caret-down"></i> </button>
+              <nav class="dropdown-content">
+                  <a href="publi_motto_RiskCalc.html">Risk analysis</a>
+                  <a href="publi_motto_RiskGov.html">Risk governance</a>
+              </nav>
+            </nav>
+            <nav class="dropdown">
+              <button class="dropbtn">Forecast<i class="fa fa-caret-down"></i> </button>
+              <nav class="dropdown-content">
+                  <a href="publi_motto_PredPhys.html">Physical theory</a>
+                  <a href="publi_motto_PredMining.html">Data mining</a>
+                  <a href="publi_motto_PredStat.html">Statistical learning</a>
+              </nav>
+            </nav>
+            <nav class="dropdown">
+               | <button class="dropbtn">Geological<i class="fa fa-caret-down"></i> </button>
+               <nav class="dropdown-content">
+                   <a href="publi_peril_EQ.html">[EQ] Earthquake risk</a>
+                   <a href="publi_peril_MS.html">[MS] Mass slide risk</a>
+               </nav>
+            </nav>
+            <nav class="dropdown">
+              <button class="dropbtn">Biophysical & Ecological<i class="fa fa-caret-down"></i> </button>
+              <nav class="dropdown-content">
+                  <a href="publi_peril_DI.html">[DI] Disease risk</a>
+              </nav>
+            </nav>
+            <nav class="dropdown">
+              <button class="dropbtn">Extraterrestrial<i class="fa fa-caret-down"></i> </button>
+              <nav class="dropdown-content">
+                <a href="publi_peril_AI.html">[AI] Asteroid impact risk</a>
+              </nav>
+            </nav>
+            <nav class="dropdown">
+              <button class="dropbtn">Technological<i class="fa fa-caret-down"></i> </button>
+              <nav class="dropdown-content">
+                  <a href="publi_peril_CF.html">[CF] Critical infrastructure failure risk</a>
+                  <a href="publi_peril_NF.html">[NF] Network failure risk</a>
+              </nav>
+            </nav>
+            <nav class="dropdown">
+                | <button class="dropbtn">Extremes<i class="fa fa-caret-down"></i> </button>
+               <nav class="dropdown-content">
+                 <a href="publi_x_Tail.html">Tail-event risk</a>
+                 <a href="publi_x_Multi.html">Multi-peril risk</a>
+                 <a href="publi_x_Global.html">Global catastrophe risk</a>
+               </nav>
+            </nav>
+            <nav class="dropdown">
+                | <button class="dropbtn">Miscellaneous<i class="fa fa-caret-down"></i> </button>
+               <nav class="dropdown-content">
+                 <a href="publi_y_HistColl.html">History of collecting</a>
+                 <a href="publi_y_HistSci.html"><b>History of science</b></a>
+                 <a href="publi_y_SciFi.html">Science fiction</a>
+               </nav>
+            </nav>
+          </nav>
+        </nav>
+
+
+    <h4>Preprints</h4>
+    <p id="preprint"></p>
+
+    <h4>Peer-reviewed articles (with DOI, inclduing book chapters)</h4>
+    <p id="peer_reviewed"></p>
+
+    <h4>Other articles (proceedings without DOI, reports, magazine articles, online posts)</h4>
+    <p id="other"></p>
+
+    <h4>Books</h4>
+    <p id="books"></p>
+
+    </main>
+    <footer><p>&copy; Arnaud Mignan, 2020</p></footer>
+
+  </div>
+
+</body>
+
+</html>
