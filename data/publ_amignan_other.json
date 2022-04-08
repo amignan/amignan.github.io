@@ -1,16 +1,21 @@
 [
 	{
+		"refID": "Mignan_MediumTDS2021",
+		"authors": "Mignan A.",
+		"year": 2021,
+		"title": "Supervised Learning Algorithm Connections Explained",
+		"source": "Towards Data Science",
+		"id": "Medium post",
+		"link": "https://medium.com/towards-data-science/supervised-learning-algorithm-connections-explained-733d2353b7ee"
+	},
+	{
 		"refID": "Mignan_MediumTDS2020",
 		"authors": "Mignan A.",
 		"year": 2020,
 		"title": "World2 model, from DYNAMO to R",
 		"source": "Towards Data Science",
 		"id": "Medium post",
-		"link": "https://towardsdatascience.com/world2-model-from-dynamo-to-r-2e44fdbd0975",
-		"category1": "x_Global",
-		"category2": "motto_RiskCalc",
-		"category3": "motto_HistData",
-		"category4": "y_HistSci"
+		"link": "https://towardsdatascience.com/world2-model-from-dynamo-to-r-2e44fdbd0975"
 	},
 	{
 		"refID": "Mignan_MediumTDS2019",
@@ -19,11 +24,7 @@
 		"title": "Mixture modelling from scratch, in R",
 		"source": "Towards Data Science",
 		"id": "Medium post",
-		"link": "https://towardsdatascience.com/mixture-modelling-from-scratch-in-r-5ab7bfc83eef",
-		"category1": "NA",
-		"category2": "NA",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://towardsdatascience.com/mixture-modelling-from-scratch-in-r-5ab7bfc83eef"
 	},
 	{
 		"refID": "Matos_etal_ICOLD2018",
@@ -32,11 +33,7 @@
 		"title": "The role of uncertainty in dam failure frequency estimates: a conceptual case study",
 		"source": "Proceedings of the 26th International Congress on Large Dams, ICOLD, 322-344",
 		"id" : "link (EPFL wall)",
-		"link": "https://infoscience.epfl.ch/record/256780",
-		"category1": "peril_CF",
-		"category2": "motto_RiskCalc",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://infoscience.epfl.ch/record/256780"
 	},
 	{
 		"refID": "Jafarimanesh_etal_ICONHIC2016",
@@ -45,11 +42,7 @@
 		"title": "Landslide triggering modeling in Switzerland",
 		"source": "1st International Conference on Natural Hazards & Infrastructure, 28-30 June, 2016, Chania, Greece, 9 pp.",
 		"id": "external link",
-		"link": "http://strest.ethz.ch/opencms/export/sites/default/.content/STREST_public/ref_Jafarimanesh_etal_ICONIC2016.pdf",
-		"category1": "peril_MS",
-		"category2": "motto_RiskCalc",
-		"category3": "x_Multi",
-		"category4": "NA"
+		"link": "http://strest.ethz.ch/opencms/export/sites/default/.content/STREST_public/ref_Jafarimanesh_etal_ICONIC2016.pdf"
 	},
 	{
 		"refID": "Matos_etal_ICOLD2015",
@@ -58,11 +51,7 @@
 		"title": "Vulnerability of large dams considering hazard interactions: Conceptual application of the Generic Multi-Risk framework",
 		"source": "Proceedings of the 13th ICOLD Benchmark Workshop on the Numerical Analysis of Dams, Lausanne, Switzerland, 285-292",
 		"id": "external link",
-		"link": "http://strest.ethz.ch/opencms/export/sites/default/.content/STREST_public/ref_Matos_etal_13ICOLD2015.pdf",
-		"category1": "peril_CF",
-		"category2": "motto_RiskCalc",
-		"category3": "x_Multi",
-		"category4": "NA"
+		"link": "http://strest.ethz.ch/opencms/export/sites/default/.content/STREST_public/ref_Matos_etal_13ICOLD2015.pdf"
 	},
 	{
 		"refID": "Giardini&Mignan_PanEUnet2014",
@@ -71,11 +60,7 @@
 		"title": "Protecting infrastructures",
 		"source": "Pan European Networks: Government, Cyber Security, 11, 234-235",
 		"id": "no link",
-		"link": "#",
-		"category1": "peril_CF",
-		"category2": "motto_RiskGov",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "#"
 	},
 	{
 		"refID": "Mrzyglocki&Mignan_Bevoelkerungsschutz2013",
@@ -84,11 +69,7 @@
 		"title": "Neue Methoden und Werkzeuge für multiple Risiken",
 		"source": "Bevölkerungsschutz, Bundesamt für Bevölkerungschultz und Katastrophenhilfe, 2, 32-35",
 		"id": "PDF",
-		"link": "dat/2013_Mrzyglocki&Mignan_MATRIX_BBK.pdf",
-		"category1": "x_Multi",
-		"category2": "NA",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "dat/2013_Mrzyglocki&Mignan_MATRIX_BBK.pdf"
 	},
 	{
 		"refID": "Mignan&Reed_Meteorite2012",
@@ -97,11 +78,7 @@
 		"title": "The Monnig Meteorite Collection Numbers Revisited",
 		"source": "Meteorite, 18 (3), 10-13",
 		"id": "PDF",
-		"link": "dat/2012_Mignan&Reed_Meteorite.pdf",
-		"category1": "y_HistColl",
-		"category2": "NA",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "dat/2012_Mignan&Reed_Meteorite.pdf"
 	},
 	{
 		"refID": "Mignan_Meteorite2011",
@@ -110,11 +87,7 @@
 		"title": "Claims of Indigenous Life Forms in Meteorites: A Short Review",
 		"source": "Meteorite, 17 (4), 34-38",
 		"id": "PDF",
-		"link": "dat/2011_Mignan_Meteorite.pdf",
-		"category1": "y_HistSci",
-		"category2": "NA",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "dat/2011_Mignan_Meteorite.pdf"
 	},
 	{
 		"refID": "Mignan_RMSreport2009",
@@ -123,11 +96,7 @@
 		"title": "Comet and asteroid risk: An analysis of the 1908 Tunguska event",
 		"source": "RMS Special Report, Risk Management Solutions, 16 pp.",
 		"id": "PDF",
-		"link": "dat/2009_Mignan_RMSreport.pdf",
-		"category1": "peril_AI",
-		"category2": "motto_RiskCalc",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "dat/2009_Mignan_RMSreport.pdf"
 	},
 	{
 		"refID": "Ericksen_etal_RMSreport2008",
@@ -136,11 +105,7 @@
 		"title": "Advances in Earthquake Forecasting",
 		"source": "Proceedings of the 2008 RMS Science Symposium, 51 pp.",
 		"id": "link",
-		"link": "https://forms2.rms.com/rs/729-DJX-565/images/eq_advancesin_eq_forecasting.pdf",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://forms2.rms.com/rs/729-DJX-565/images/eq_advancesin_eq_forecasting.pdf"
 	},
 	{
 		"refID": "Mignan_RMSreport2008",
@@ -149,10 +114,6 @@
 		"title": "Earthquake Clustering Due to Stress Interactions",
 		"source": "RMS Special Report, Risk Management Solutions, 21 pp.",
 		"id": "link",
-		"link": "https://forms2.rms.com/rs/729-DJX-565/images/eq_clustering_due_stress_interactions.pdf",
-		"category1": "peril_EQ",
-		"category2": "motto_RiskCalc",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://forms2.rms.com/rs/729-DJX-565/images/eq_clustering_due_stress_interactions.pdf"
 	}
 ]

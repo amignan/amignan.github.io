@@ -1,5 +1,38 @@
 [
 	{
+		"refID": "Feng_etal2022",
+		"authors": "Feng Y., Mignan A., Sornette D., Li J.",
+		"year": 2022,
+		"title": "Hierarchical Bayesian Modeling for Improved High-resolution Mapping of the Completeness Magnitude of Earthquake Catalogs",
+		"journal": "Seismological Research Letters",
+		"volume": "in press",
+		"pages": "xx-xx",
+		"id": "doi: N/A",
+		"link": ""
+	},
+	{
+		"refID": "Mignan_etal_Frontiers2022",
+		"authors": "Mignan A., Mochel L., Ducos G.",
+		"year": 2022,
+		"title": "Involving Risk Reduction Practitioners and Other Experts in the Management of Super-Catastrophes via an Online Interactive Platform",
+		"journal": "Frontiers in Earth Sciences",
+		"volume": "10",
+		"pages": "829145",
+		"id": "doi: 10.3389/feart.2022.829145",
+		"link": "https://www.frontiersin.org/articles/10.3389/feart.2022.829145/full"
+	},
+	{
+		"refID": "Mignan_etal_PLoSONE2022",
+		"authors": "Mignan A., Spada M., Burgherr P., Wang Z., Sornette D.",
+		"year": 2022,
+		"title": "Dynamics of severe accidents in the oil & gas energy sector derived from the authoritative ENergy-related Severe Accident Database",
+		"journal": "PLoS ONE",
+		"volume": "17 (2)",
+		"pages": "e0263962",
+		"id": "doi: 10.1371/journal.pone.0263962",
+		"link": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263962"
+	},
+	{
 		"refID": "Mignan_etal_Energies2021",
 		"authors": "Mignan A., Broccardo M., Wang Z.",
 		"year": 2021,
@@ -8,11 +41,7 @@
 		"volume": "14",
 		"pages": "7998",
 		"id": "doi: 10.3390/en14237998",
-		"link": "https://www.mdpi.com/1996-1073/14/23/7998",
-		"category1": "",
-		"category2": "",
-		"category3": "",
-		"category4": ""
+		"link": "https://www.mdpi.com/1996-1073/14/23/7998"
 	},
 	{
 		"refID": "Feng_etal_IJRMMS2021",
@@ -23,11 +52,7 @@
 		"volume": "148",
 		"pages": "104924",
 		"id": "doi: 10.1016/j.ijrmms.2021.104924",
-		"link": "https://www.sciencedirect.com/science/article/abs/pii/S1365160921003087?dgcid=rss_sd_all",
-		"category1": "",
-		"category2": "",
-		"category3": "",
-		"category4": ""
+		"link": "https://www.sciencedirect.com/science/article/abs/pii/S1365160921003087?dgcid=rss_sd_all"
 	},
 	{
 		"refID": "Mignan_ANH2021",
@@ -38,11 +63,7 @@
 		"volume": "48 (2)",
 		"pages": "396-399",
 		"id": "doi: 10.3366/anh.2021.0730",
-		"link": "https://www.euppublishing.com/doi/abs/10.3366/anh.2021.0730?af=R",
-		"category1": "",
-		"category2": "",
-		"category3": "",
-		"category4": ""
+		"link": "https://www.euppublishing.com/doi/abs/10.3366/anh.2021.0730?af=R"
 	},
 	{
 		"refID": "Mignan_FrontiersES2021",
@@ -53,11 +74,7 @@
 		"volume": "9",
 		"pages": "635193",
 		"id": "doi: 10.3389/feart.2021.635193",
-		"link": "https://www.frontiersin.org/articles/10.3389/feart.2021.635193/full",
-		"category1": "",
-		"category2": "",
-		"category3": "",
-		"category4": ""
+		"link": "https://www.frontiersin.org/articles/10.3389/feart.2021.635193/full"
 	},
 	{
 		"refID": "Mignan_etal_EPJST2021",
@@ -68,11 +85,7 @@
 		"volume": "i230",
 		"pages": "473-490",
 		"id": "doi: 10.1140/epjst/e2020-000261-8",
-		"link": "https://link.springer.com/article/10.1140/epjst/e2020-000261-8",
-		"category1": "peril_EQ",
-		"category2": "motto_PredMining",
-		"category3": "motto_PredPhys",
-		"category4": "motto_PredStat"
+		"link": "https://link.springer.com/article/10.1140/epjst/e2020-000261-8"
 	},
 	{
 		"refID": "Sornette_etal_EPJST2020",
@@ -83,11 +96,7 @@
 		"volume": "230",
 		"pages": "1-5",
 		"id": "doi: 10.1140/epjst/e2020-000242-4",
-		"link": "https://link.springer.com/article/10.1140/epjst/e2020-000242-4",
-		"category1": "peril_EQ",
-		"category2": "motto_PredMining",
-		"category3": "motto_PredPhys",
-		"category4": "motto_PredStat"
+		"link": "https://link.springer.com/article/10.1140/epjst/e2020-000242-4"
 	},
 	{
 		"refID": "Mignan&Wang_IJERPH2020",
@@ -98,11 +107,7 @@
 		"volume": "17",
 		"pages": "7317",
 		"id": "doi: 10.3390/ijerph17197317",
-		"link": "https://www.mdpi.com/1660-4601/17/19/7317",
-		"category1": "motto_RiskCalc",
-		"category2": "x_Multi",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://www.mdpi.com/1660-4601/17/19/7317"
 	},
 	{
 		"refID": "Wang_etal_NonlinDyn",
@@ -113,11 +118,7 @@
 		"volume": "101",
 		"pages": "1847-1869",
 		"id": "doi: 10.1007/s11071-020-05871-5",
-		"link": "https://link.springer.com/article/10.1007/s11071-020-05871-5",
-		"category1": "peril_DI",
-		"category2": "motto_PredStat",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://link.springer.com/article/10.1007/s11071-020-05871-5"
 	},
 	{
 		"refID": "Mignan&Broccardo_EPSL2020",
@@ -128,11 +129,7 @@
 		"volume": "544",
 		"pages": "116402",
 		"id": "doi: 10.1016/j.epsl.2020.116402",
-		"link": "https://www.sciencedirect.com/science/article/abs/pii/S0012821X20303460",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://www.sciencedirect.com/science/article/abs/pii/S0012821X20303460"
 	},
 	{
 		"refID": "Broccardo_etal_NHESS2020",
@@ -143,11 +140,7 @@
 		"volume": "20",
 		"pages": "1573-1593",
 		"id": "doi: 10.5194/nhess-20-1573-2020",
-		"link": "https://www.nat-hazards-earth-syst-sci.net/20/1573/2020/",
-		"category1": "peril_EQ",
-		"category2": "peril_CF",
-		"category3": "motto_RiskCalc",
-		"category4": "NA"
+		"link": "https://www.nat-hazards-earth-syst-sci.net/20/1573/2020/"
 	},
 	{
 		"refID": "Mignan&Broccardo_SRL2020",
@@ -158,11 +151,7 @@
 		"volume": "91 (4)",
 		"pages": "2330-2342",
 		"id": "doi: 10.1785/0220200021",
-		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/doi/10.1785/0220200021/586519/Neural-Network-Applications-in-Earthquake?redirectedFrom=fulltext",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "motto_HistMeta",
-		"category4": "NA"
+		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/doi/10.1785/0220200021/586519/Neural-Network-Applications-in-Earthquake?redirectedFrom=fulltext"
 	},
 	{
 		"refID": "Villiger_etal_SolidEarth2020",
@@ -173,11 +162,7 @@
 		"volume": "11",
 		"pages": "627-655",
 		"id": "doi: 10.5194/se-11-627-2020",
-		"link": "https://se.copernicus.org/articles/11/627/2020/se-11-627-2020-discussion.html",
-		"category1": "peril_EQ",
-		"category2": "motto_PredPhys",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://se.copernicus.org/articles/11/627/2020/se-11-627-2020-discussion.html"
 	},
 	{
 		"refID": "Argyroudis_etal_NatHaz2020",
@@ -188,11 +173,7 @@
 		"volume": "100",
 		"pages": "595-633",
 		"id": "doi: 10.1007/s11069-019-03828-5",
-		"link": "https://link.springer.com/article/10.1007/s11069-019-03828-5",
-		"category1": "peril_CF",
-		"category2": "peril_NF",
-		"category3": "motto_RiskCalc",
-		"category4": "motto_RiskGov"
+		"link": "https://link.springer.com/article/10.1007/s11069-019-03828-5"
 	},
 	{
 		"refID": "Mignan_Temblor2019",
@@ -203,11 +184,7 @@
 		"volume": "Oct 2019",
 		"pages": "online",
 		"id": "doi: 10.32858/temblor.053",
-		"link": "https://temblor.net/earthquake-insights/forecasting-aftershocks-back-to-square-one-after-a-deep-learning-anticlimax-10068/",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://temblor.net/earthquake-insights/forecasting-aftershocks-back-to-square-one-after-a-deep-learning-anticlimax-10068/"
 	},
 	{
 		"refID": "Mignan&Broccardo_Nature2019",
@@ -218,11 +195,7 @@
 		"volume": "574",
 		"pages": "E1-E3",
 		"id": "doi: 10.1038/s41586-019-1582-8",
-		"link": "https://www.nature.com/articles/s41586-019-1582-8",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://www.nature.com/articles/s41586-019-1582-8"
 	},
 	{
 		"refID": "Mignan_GJI2019",
@@ -233,11 +206,7 @@
 		"volume": "219 (2)",
 		"pages": "1348-1364",
 		"id": "doi: 10.1093/gji/ggz373",
-		"link": "https://academic.oup.com/gji/article-abstract/219/2/1348/5548774?redirectedFrom=fulltext",
-		"category1": "peril_EQ",
-		"category2": "motto_PredMining",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://academic.oup.com/gji/article-abstract/219/2/1348/5548774?redirectedFrom=fulltext"
 	},
 	{
 		"refID": "Mignan_AISC2020",
@@ -248,11 +217,7 @@
 		"volume": "944",
 		"pages": "30-43",
 		"id" : "doi: 10.1007/978-3-030-17798-0_4",
-		"link": "https://link.springer.com/chapter/10.1007/978-3-030-17798-0_4",
-		"category1": "peril_EQ",
-		"category2": "motto_PredMining",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://link.springer.com/chapter/10.1007/978-3-030-17798-0_4"
 	},
 	{
 		"refID": "Esposito_etal_JInfraSys2019",
@@ -263,11 +228,7 @@
 		"volume": "26 (1)",
 		"pages": "04019035",
 		"id" : "doi: 10.1061/(ASCE)IS.1943-555X.0000520",
-		"link": "https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29IS.1943-555X.0000520",
-		"category1": "peril_CF",
-		"category2": "motto_RiskGov",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://ascelibrary.org/doi/abs/10.1061/%28ASCE%29IS.1943-555X.0000520"
 	},
 	{
 		"refID": "Mignan&Broccardo_LNCS2019",
@@ -278,11 +239,7 @@
 		"volume": "11506",
 		"pages": "3-14",
 		"id" : "doi: 10.1007/978-3-030-20521-8_1",
-		"link": "https://link.springer.com/chapter/10.1007/978-3-030-20521-8_1",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "NA",
-		"category4": "NA"	
+		"link": "https://link.springer.com/chapter/10.1007/978-3-030-20521-8_1"
 	},
 	{
 		"refID": "Mignan_JOSE2019",
@@ -293,11 +250,7 @@
 		"volume": "23 (4)",
 		"pages": "771-785",
 		"id" : "doi: 10.1007/s10950-019-09833-2",
-		"link": "https://link.springer.com/article/10.1007/s10950-019-09833-2",
-		"category1": "peril_EQ",
-		"category2": "motto_HistMeta",
-		"category3": "motto_PredPhys",
-		"category4": "motto_PredStat"
+		"link": "https://link.springer.com/article/10.1007/s10950-019-09833-2"
 	},
 	{
 		"refID": "Staudenmaier_etal_EPSL2019",
@@ -308,11 +261,7 @@
 		"volume": "516",
 		"pages": "77-107",
 		"id" : "doi: 10.1016/j.epsl.2019.04.006",
-		"link": "https://www.sciencedirect.com/science/article/pii/S0012821X19302031",
-		"category1": "peril_EQ",
-		"category2": "motto_PredPhys",
-		"category3": "motto_HistData",
-		"category4": "NA"
+		"link": "https://www.sciencedirect.com/science/article/pii/S0012821X19302031"
 	},
 	{
 		"refID": "Mignan_etal_APEN2019",
@@ -323,11 +272,7 @@
 		"volume": "238",
 		"pages": "831-850",
 		"id" : "doi: 10.1016/j.apenergy.2019.01.109",
-		"link": "https://www.sciencedirect.com/science/article/pii/S0306261919301230",
-		"category1": "peril_EQ",
-		"category2": "peril_CF",
-		"category3": "motto_RiskCalc",
-		"category4": "motto_RiskGov"
+		"link": "https://www.sciencedirect.com/science/article/pii/S0306261919301230"
 	},
 	{
 		"refID": "Mignan_etal_EnergyGeotech2019",
@@ -338,11 +283,7 @@
 		"volume": "",
 		"pages": "369-376",
 		"id" : "doi: 10.1007/978-3-319-99670-7_46",
-		"link": "https://link.springer.com/chapter/10.1007/978-3-319-99670-7_46",
-		"category1": "peril_EQ",
-		"category2": "peril_CF",
-		"category3": "motto_RiskGov",
-		"category4": "NA"
+		"link": "https://link.springer.com/chapter/10.1007/978-3-319-99670-7_46"
 	},
 	{
 		"refID": "Seif_etal_BSSA2019",
@@ -353,11 +294,7 @@
 		"volume": "109 (1)",
 		"pages": "1-18",
 		"id" : "doi: 10.1785/0120170188",
-		"link": "https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/109/1/1/567482/foreshocks-and-their-potential-deviation-from?redirectedFrom=fulltext",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/109/1/1/567482/foreshocks-and-their-potential-deviation-from?redirectedFrom=fulltext"
 	},
 	{
 		"refID": "Mignan_Colligo2018",
@@ -368,11 +305,7 @@
 		"volume": "1 (2)",
 		"pages": "35-50",
 		"id" : "perma: YQ5W-BN5Z",
-		"link": "http://revue-colligo.fr/index.php/vol-1-num-2?id=19",
-		"category1": "y_HistColl",
-		"category2": "NA",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "http://revue-colligo.fr/index.php/vol-1-num-2?id=19"
 	},
 	{
 		"refID": "Woo&Mignan_SRL2018",
@@ -383,11 +316,7 @@
 		"volume": "89 (6)",
 		"pages": "2266-2273",
 		"id" : "doi: 10.1785/0220180138",
-		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/89/6/2266/565695/counterfactual-analysis-of-runaway-earthquakes?redirectedFrom=fulltext",
-		"category1": "peril_EQ",
-		"category2": "motto_RiskCalc",
-		"category3": "x_Tail",
-		"category4": "NA"
+		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/89/6/2266/565695/counterfactual-analysis-of-runaway-earthquakes?redirectedFrom=fulltext"
 	},
 	{
 		"refID": "Mignan_NPG2018",
@@ -398,11 +327,7 @@
 		"volume": "25",
 		"pages": "241-250",
 		"id" : "doi: 10.5194/npg-25-241-2018",
-		"link": "https://www.nonlin-processes-geophys.net/25/241/2018/",
-		"category1": "peril_EQ",
-		"category2": "motto_PredPhys",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://www.nonlin-processes-geophys.net/25/241/2018/"
 	},
 	{
 		"refID": "Mignan_etal_NHAZ2018",
@@ -413,11 +338,7 @@
 		"volume": "91 (Supplement 1)",
 		"pages": "149–172",
 		"id" : "doi: 10.1007/s11069-016-2549-9",
-		"link": "https://link.springer.com/article/10.1007/s11069-016-2549-9",
-		"category1": "peril_EQ",
-		"category2": "motto_RiskCalc",
-		"category3": "x_Multi",
-		"category4": "NA"
+		"link": "https://link.springer.com/article/10.1007/s11069-016-2549-9"
 	},
 	{
 		"refID": "Scolobig_etal_Geosci2017",
@@ -428,11 +349,7 @@
 		"volume": "7 (4)",
 		"pages": "129",
 		"id" : "doi: 10.3390/geosciences7040129",
-		"link": "https://www.mdpi.com/2076-3263/7/4/129",
-		"category1": "motto_RiskGov",
-		"category2": "x_Multi",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://www.mdpi.com/2076-3263/7/4/129"
 	},
 	{
 		"refID": "Broccardo_etal_GRL2017",
@@ -443,11 +360,7 @@
 		"volume": "44 (22)",
 		"pages": "11,357-11,367",
 		"id" : "doi: 10.1002/2017GL075251",
-		"link": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017GL075251",
-		"category1": "peril_EQ",
-		"category2": "peril_CF",
-		"category3": "motto_PredStat",
-		"category4": "NA"
+		"link": "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017GL075251"
 	},
 	{
 		"refID": "Mignan_etal_SciRep2017",
@@ -458,11 +371,7 @@
 		"volume": "7",
 		"pages": "13607",
 		"id" : "doi: 10.1038/s41598-017-13585-9",
-		"link": "https://www.nature.com/articles/s41598-017-13585-9",
-		"category1": "peril_EQ",
-		"category2": "peril_CF",
-		"category3": "motto_RiskGov",
-		"category4": "motto_PredStat"
+		"link": "https://www.nature.com/articles/s41598-017-13585-9"
 	},
 	{
 		"refID": "Mignan_etal_HandbookDRRM2017",
@@ -473,11 +382,7 @@
 		"volume": "",
 		"pages": "357-381",
 		"id" : "doi: 10.1142/9789813207950_0014",
-		"link": "https://www.worldscientific.com/doi/abs/10.1142/9789813207950_0014",
-		"category1": "motto_RiskCalc",
-		"category2": "motto_RiskGov",
-		"category3": "x_Multi",
-		"category4": "NA"
+		"link": "https://www.worldscientific.com/doi/abs/10.1142/9789813207950_0014"
 	},
 	{
 		"refID": "Panzera_etal_JOSE2017",
@@ -488,11 +393,7 @@
 		"volume": "21 (4)",
 		"pages": "615–630",
 		"id" : "doi: 10.1007/s10950-016-9623-3",
-		"link": "https://link.springer.com/article/10.1007/s10950-016-9623-3",
-		"category1": "peril_EQ",
-		"category2": "motto_PredMining",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://link.springer.com/article/10.1007/s10950-016-9623-3"
 	},
 	{
 		"refID": "Seif_etal_JGR2017",
@@ -503,11 +404,7 @@
 		"volume": "122 (1)",
 		"pages": "449-469",
 		"id" : "doi: 10.1002/2016JB012809",
-		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JB012809",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JB012809"
 	},
 	{
 		"refID": "Mignan_SRL2016b",
@@ -518,11 +415,7 @@
 		"volume": "87 (5)",
 		"pages": "1134-1137",
 		"id" : "doi: 10.1785/0220160110",
-		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/87/5/1134/314190/reply-to-comment-on-revisiting-the-1894-omori?redirectedFrom=fulltext",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/87/5/1134/314190/reply-to-comment-on-revisiting-the-1894-omori?redirectedFrom=fulltext"
 	},
 	{
 		"refID": "Mignan_NPG2016",
@@ -533,11 +426,7 @@
 		"volume": "23",
 		"pages": "107-113",
 		"id" : "doi: 10.5194/npg-23-107-2016",
-		"link": "https://www.nonlin-processes-geophys.net/23/107/2016/",
-		"category1": "peril_EQ",
-		"category2": "motto_PredPhys",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://www.nonlin-processes-geophys.net/23/107/2016/"
 	},
 	{
 		"refID": "Mignan_etal_DPM2016",
@@ -548,11 +437,7 @@
 		"volume": "25 (3)",
 		"pages": "329-344",
 		"id" : "doi: 10.1108/DPM-06-2015-0137",
-		"link": "https://www.emeraldinsight.com/doi/abs/10.1108/DPM-06-2015-0137",
-		"category1": "x_Multi",
-		"category2": "motto_RiskGov",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://www.emeraldinsight.com/doi/abs/10.1108/DPM-06-2015-0137"
 	},
 	{
 		"refID": "Mignan_Meteorites2016",
@@ -563,11 +448,7 @@
 		"volume": "4 (1-2)",
 		"pages": "11-22",
 		"id" : "doi: 10.5277/met160102",
-		"link": "http://www.meteorites.pwr.wroc.pl/issues/4/MignanFINAL.pdf",
-		"category1": "y_HistColl",
-		"category2": "NA",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "http://www.meteorites.pwr.wroc.pl/issues/4/MignanFINAL.pdf"
 	},
 	{
 		"refID": "Mignan_SRL2016a",
@@ -578,11 +459,7 @@
 		"volume": "87 (3)",
 		"pages": "685-689",
 		"id" : "doi: 10.1785/0220150230",
-		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/87/3/685/315685/revisiting-the-1894-omori-aftershock-dataset-with?redirectedFrom=fulltext",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "motto_HistData",
-		"category4": "y_HistSci"
+		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/87/3/685/315685/revisiting-the-1894-omori-aftershock-dataset-with?redirectedFrom=fulltext"
 	},
 	{
 		"refID": "Mignan&Chen_PAGEOPH2016",
@@ -593,11 +470,7 @@
 		"volume": "173 (1)",
 		"pages": "117–124",
 		"id" : "doi: 10.1007/s00024-015-1133-7",
-		"link": "https://link.springer.com/article/10.1007/s00024-015-1133-7",
-		"category1": "peril_EQ",
-		"category2": "motto_PredMining",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://link.springer.com/article/10.1007/s00024-015-1133-7"
 	},
 	{
 		"refID": "Mignan_GRL2015",
@@ -608,11 +481,7 @@
 		"volume": "42 (22)",
 		"pages": "9726-9732",
 		"id" : "doi: 10.1002/2015GL066232",
-		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL066232",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "motto_HistMeta",
-		"category4": "NA"
+		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015GL066232"
 	},
 	{
 		"refID": "Liu_etal_Georisk2015",
@@ -623,11 +492,7 @@
 		"volume": "9 (2)",
 		"pages": "59-74",
 		"id" : "doi: 10.1080/17499518.2015.1041989",
-		"link": "https://www.tandfonline.com/doi/full/10.1080/17499518.2015.1041989",
-		"category1": "x_Multi",
-		"category2": "motto_RiskCalc",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://www.tandfonline.com/doi/full/10.1080/17499518.2015.1041989"
 	},
 	{
 		"refID": "Mignan_etal_SRL2015",
@@ -638,11 +503,7 @@
 		"volume": "86 (3)",
 		"pages": "890-900",
 		"id" : "doi: 10.1785/0220140252",
-		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/86/3/890/315715/reassessment-of-the-maximum-fault-rupture-length?redirectedFrom=fulltext",
-		"category1": "peril_EQ",
-		"category2": "motto_RiskCalc",
-		"category3": "x_Tail",
-		"category4": "NA"
+		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/86/3/890/315715/reassessment-of-the-maximum-fault-rupture-length?redirectedFrom=fulltext"
 	},
 	{
 		"refID": "Cara_etal_BSGF2015",
@@ -653,11 +514,7 @@
 		"volume": "186 (1)",
 		"pages": "3-19",
 		"id" : "doi: 10.2113/gssgfbull.186.1.3",
-		"link": "https://pubs.geoscienceworld.org/sgf/bsgf/article-abstract/186/1/3/141517/si-hex-a-new-catalogue-of-instrumental-seismicity?redirectedFrom=fulltext",
-		"category1": "peril_EQ",
-		"category2": "motto_HistData",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://pubs.geoscienceworld.org/sgf/bsgf/article-abstract/186/1/3/141517/si-hex-a-new-catalogue-of-instrumental-seismicity?redirectedFrom=fulltext"
 	},
 	{
 		"refID": "Mignan_etal_Geothermics2015",
@@ -668,11 +525,7 @@
 		"volume": "53",
 		"pages": "133-146",
 		"id" : "doi: 10.1016/j.geothermics.2014.05.007",
-		"link": "https://www.sciencedirect.com/science/article/pii/S0375650514000613",
-		"category1": "peril_EQ",
-		"category2": "peril_CF",
-		"category3": "motto_RiskCalc",
-		"category4": "motto_RiskGov"
+		"link": "https://www.sciencedirect.com/science/article/pii/S0375650514000613"
 	},
 	{
 		"refID": "Mignan_etal_NHAZ2014",
@@ -683,11 +536,7 @@
 		"volume": "73 (3)",
 		"pages": "1999–2022",
 		"id" : "doi: 10.1007/s11069-014-1178-4",
-		"link": "https://link.springer.com/article/10.1007/s11069-014-1178-4",
-		"category1": "x_Multi",
-		"category2": "motto_RiskCalc",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://link.springer.com/article/10.1007/s11069-014-1178-4"
 	},
 	{
 		"refID": "Tormann_etal_JGR2014",
@@ -698,11 +547,7 @@
 		"volume": "119 (3)",
 		"pages": "2029-2054",
 		"id" : "doi: 10.1002/2013JB010867",
-		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013JB010867",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013JB010867"
 	},
 	{
 		"refID": "Mignan&Chouliaras_SRL2014",
@@ -713,11 +558,7 @@
 		"volume": "85 (3)",
 		"pages": "657-667",
 		"id" : "doi: 10.1785/0220130209",
-		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/85/3/657/315375/fifty-years-of-seismic-network-performance-in?redirectedFrom=fulltext",
-		"category1": "peril_EQ",
-		"category2": "motto_PredMining",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/85/3/657/315375/fifty-years-of-seismic-network-performance-in?redirectedFrom=fulltext"
 	},
 	{
 		"refID": "Mignan_SciRep2014",
@@ -728,11 +569,7 @@
 		"volume": "4",
 		"pages": "4099",
 		"id" : "doi: 10.1038/srep04099",
-		"link": "https://www.nature.com/articles/srep04099",
-		"category1": "peril_EQ",
-		"category2": "motto_HistMeta",
-		"category3": "motto_PredStat",
-		"category4": "motto_PredMining"
+		"link": "https://www.nature.com/articles/srep04099"
 	},
 	{
 		"refID": "Komendantova_etal_IJDRR2014",
@@ -743,11 +580,7 @@
 		"volume": "8",
 		"pages": "50-67",
 		"id" : "doi: 10.1016/j.ijdrr.2013.12.006",
-		"link": "https://www.sciencedirect.com/science/article/pii/S221242091300068X",
-		"category1": "x_Multi",
-		"category2": "motto_RiskGov",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://www.sciencedirect.com/science/article/pii/S221242091300068X"
 	},
 	{
 		"refID": "Kraft_etal_GJI2013",
@@ -758,11 +591,7 @@
 		"volume": "195 (1)",
 		"pages": "474–490",
 		"id" : "doi: 10.1093/gji/ggt225",
-		"link": "https://academic.oup.com/gji/article/195/1/474/601101",
-		"category1": "peril_EQ",
-		"category2": "motto_PredMining",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://academic.oup.com/gji/article/195/1/474/601101"
 	},
 	{
 		"refID": "Mignan_etal_BSSA2013",
@@ -773,11 +602,7 @@
 		"volume": "103 (2A)",
 		"pages": "845-859",
 		"id" : "doi: 10.1785/0120120052",
-		"link": "https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/103/2A/845/331723/completeness-of-the-mainland-china-earthquake?redirectedFrom=fulltext",
-		"category1": "peril_EQ",
-		"category2": "motto_PredMining",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/103/2A/845/331723/completeness-of-the-mainland-china-earthquake?redirectedFrom=fulltext"
 	},
 	{
 		"refID": "Nanda_etal_NPG2013",
@@ -788,11 +613,7 @@
 		"volume": "20",
 		"pages": "143-162",
 		"id" : "doi: 10.5194/npg-20-143-2013",
-		"link": "https://www.nonlin-processes-geophys.net/20/143/2013/",
-		"category1": "peril_EQ",
-		"category2": "NA",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://www.nonlin-processes-geophys.net/20/143/2013/"
 	},
 	{
 		"refID": "Mignan_GRL2012",
@@ -803,11 +624,7 @@
 		"volume": "39 (21)",
 		"pages": "L21308",
 		"id" : "doi: 10.1029/2012GL053946",
-		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GL053946",
-		"category1": "peril_EQ",
-		"category2": "motto_PredPhys",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012GL053946"
 	},
 	{
 		"refID": "Mignan_JGR2012",
@@ -818,11 +635,7 @@
 		"volume": "117 (B8)",
 		"pages": "B08302",
 		"id" : "doi: 10.1029/2012JB009347",
-		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012JB009347",
-		"category1": "peril_EQ",
-		"category2": "motto_PredMining",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2012JB009347"
 	},
 	{
 		"refID": "Mignan&Woessner_CORSSA2012",
@@ -833,11 +646,7 @@
 		"volume": "Theme IV",
 		"pages": "1-45",
 		"id" : "doi: 10.5078/corssa-00180805",
-		"link": "http://www.corssa.org/export/sites/corssa/.galleries/articles-pdf/Mignan-Woessner-2012-CORSSA-Magnitude-of-completeness.pdf",
-		"category1": "peril_EQ",
-		"category2": "motto_PredMining",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "http://www.corssa.org/export/sites/corssa/.galleries/articles-pdf/Mignan-Woessner-2012-CORSSA-Magnitude-of-completeness.pdf"
 	},
 	{
 		"refID": "Mignan_etal_BSSA2011",
@@ -848,11 +657,7 @@
 		"volume": "101 (3)",
 		"pages": "1371-1385",
 		"id" : "doi: 10.1785/0120100223",
-		"link": "https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/101/3/1371/349687",
-		"category1": "peril_EQ",
-		"category2": "motto_PredMining",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://pubs.geoscienceworld.org/ssa/bssa/article-abstract/101/3/1371/349687"
 	},
 	{
 		"refID": "Mignan_Tectonophys2011",
@@ -863,11 +668,7 @@
 		"volume": "505 (1-4)",
 		"pages": "1-16",
 		"id" : "doi: 10.1016/j.tecto.2011.03.010",
-		"link": "https://www.sciencedirect.com/science/article/pii/S0040195111001284",
-		"category1": "peril_EQ",
-		"category2": "motto_HistMeta",
-		"category3": "motto_PredPhys",
-		"category4": "y_HistSci"
+		"link": "https://www.sciencedirect.com/science/article/pii/S0040195111001284"
 	},
 	{
 		"refID": "Mignan_etal_NHAZ2011",
@@ -878,11 +679,7 @@
 		"volume": "56 (3)",
 		"pages": "869–880",
 		"id" : "doi: 10.1007/s11069-010-9597-3",
-		"link": "https://link.springer.com/article/10.1007/s11069-010-9597-3",
-		"category1": "peril_AI",
-		"category2": "motto_RiskCalc",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://link.springer.com/article/10.1007/s11069-010-9597-3"
 	},
 	{
 		"refID": "Pinzuti_etal_EPSL2011",
@@ -893,11 +690,7 @@
 		"volume": "299 (1-2)",
 		"pages": "169-179",
 		"id" : "doi: 10.1016/j.epsl.2010.08.032",
-		"link": "https://www.sciencedirect.com/science/article/pii/S0012821X10005443",
-		"category1": "peril_EQ",
-		"category2": "motto_HistData",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://www.sciencedirect.com/science/article/pii/S0012821X10005443"
 	},
 	{
 		"refID": "Tiampo_etal_PAGEOPH2010",
@@ -908,11 +701,7 @@
 		"volume": "167 (6-7)",
 		"pages": "763–782",
 		"id" : "doi: 10.1007/s00024-010-0076-2",
-		"link": "https://link.springer.com/article/10.1007/s00024-010-0076-2",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://link.springer.com/article/10.1007/s00024-010-0076-2"
 	},
 	{
 		"refID": "Mignan&Tiampo_Tectonophys2010",
@@ -923,11 +712,7 @@
 		"volume": "483 (3-4)",
 		"pages": "255-268",
 		"id" : "doi: ",
-		"link": "https://www.sciencedirect.com/science/article/pii/S0040195109006052",
-		"category1": "peril_EQ",
-		"category2": "motto_PredPhys",
-		"category3": "motto_PredStat",
-		"category4": "NA"
+		"link": "https://www.sciencedirect.com/science/article/pii/S0040195109006052"
 	},
 	{
 		"refID": "Mignan&DiGiovambattista_GRL2009",
@@ -938,11 +723,7 @@
 		"volume": "36 (17)",
 		"pages": "L17304",
 		"id" : "doi: 10.1029/2009GL039871",
-		"link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2009GL039871",
-		"category1": "peril_EQ",
-		"category2": "motto_PredStat",
-		"category3": "motto_PredPhys",
-		"category4": "NA"
+		"link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2009GL039871"
 	},
 	{
 		"refID": "MuirWood&Mignan_GGEE2009",
@@ -953,11 +734,7 @@
 		"volume": "7",
 		"pages": "121-146",
 		"id" : "doi: 10.1007/978-1-4020-8609-0_8",
-		"link": "https://link.springer.com/chapter/10.1007/978-1-4020-8609-0_8",
-		"category1": "peril_EQ",
-		"category2": "motto_HistData",
-		"category3": "motto_RiskCalc",
-		"category4": "NA"
+		"link": "https://link.springer.com/chapter/10.1007/978-1-4020-8609-0_8"
 	},
 	{
 		"refID": "Mignan&DiGiovambattista_GRL2008",
@@ -968,11 +745,7 @@
 		"volume": "35 (15)",
 		"pages": "L15306",
 		"id" : "doi: 10.1029/2008GL035024",
-		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GL035024",
-		"category1": "peril_EQ",
-		"category2": "motto_PredPhys",
-		"category3": "motto_PredStat",
-		"category4": "NA"
+		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2008GL035024"
 	},
 	{
 		"refID": "Mignan_Tectonophys2008",
@@ -983,11 +756,7 @@
 		"volume": "452 (1-4)",
 		"pages": "42-50",
 		"id" : "doi: 10.1016/j.tecto.2008.02.010",
-		"link": "https://www.sciencedirect.com/science/article/pii/S0040195108001029",
-		"category1": "peril_EQ",
-		"category2": "motto_PredPhys",
-		"category3": "motto_PredStat",
-		"category4": "NA"
+		"link": "https://www.sciencedirect.com/science/article/pii/S0040195108001029"
 	},
 	{
 		"refID": "Mignan_AGEOPH2008",
@@ -998,11 +767,7 @@
 		"volume": "49",
 		"pages": "67-201",
 		"id" : "doi: 10.1016/S0065-2687(07)49002-1",
-		"link": "https://www.sciencedirect.com/science/article/abs/pii/S0065268707490021",
-		"category1": "peril_EQ",
-		"category2": "motto_PredPhys",
-		"category3": "motto_PredStat",
-		"category4": "NA"
+		"link": "https://www.sciencedirect.com/science/article/abs/pii/S0065268707490021"
 	},
 	{
 		"refID": "Mignan_etal_JGR2007",
@@ -1013,11 +778,7 @@
 		"volume": "112 (B7)",
 		"pages": "B07308",
 		"id" : "doi: 10.1029/2006JB004671",
-		"link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2006JB004671",
-		"category1": "peril_EQ",
-		"category2": "motto_PredPhys",
-		"category3": "NA",
-		"category4": "NA"
+		"link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2006JB004671"
 	},
 	{
 		"refID": "Mignan_etal_JGR2006",
@@ -1028,11 +789,7 @@
 		"volume": "111 (B11)",
 		"pages": "B11304",
 		"id" : "doi: 10.1029/2006JB004374",
-		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2006JB004374",
-		"category1": "peril_EQ",
-		"category2": "motto_PredPhys",
-		"category3": "motto_PredStat",
-		"category4": "NA"
+		"link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2006JB004374"
 	},
 	{
 		"refID": "Mignan_etal_EPSL2006",
@@ -1043,10 +800,6 @@
 		"volume": "244 (3-4)",
 		"pages": "639-654",
 		"id" : "doi: 10.1016/j.epsl.2006.01.058",
-		"link": "https://www.sciencedirect.com/science/article/pii/S0012821X06001105",
-		"category1": "peril_EQ",
-		"category2": "motto_PredPhys",
-		"category3": "motto_PredStat",
-		"category4": "NA"
+		"link": "https://www.sciencedirect.com/science/article/pii/S0012821X06001105"
 	}
 ]
