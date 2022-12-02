@@ -1,5 +1,14 @@
 [
 	{
+		"refID": "Mignan_MediumTDS2022",
+		"authors": "Mignan A.",
+		"year": 2022,
+		"title": "Giants in a Tale of 2 Probability Distributions",
+		"source": "Towards Data Science",
+		"id": "Medium post",
+		"link": "https://medium.com/towards-data-science/giants-in-a-tale-of-2-probability-distributions-38e968dda10e"
+	},
+	{
 		"refID": "Mignan_MediumTDS2021",
 		"authors": "Mignan A.",
 		"year": 2021,

@@ -1,14 +1,47 @@
 [
 	{
-		"refID": "Feng_etal2022",
+		"refID": "Feng_etal_SRL2022b",
+		"authors": "Feng Y, Mignan A, Sornette D, Gao K",
+		"year": 2022,
+		"title": "Investigating Injection Pressure as a Predictor to Enhance Real-time Forecasting of Fluid-induced Seismicity: A Bayesian Model Comparison",
+		"journal": "Seismological Research Letters",
+		"volume": "in press",
+		"pages": "NA",
+		"id": "NA",
+		"link": "#"
+	},
+	{
+		"refID": "Mignan_IJERPH2022b",
+		"authors": "Mignan A.",
+		"year": 2022,
+		"title": "A Digital Template for the Generic Multi-Risk (GenMR) Framework: A Virtual Natural Environment",
+		"journal": "International Journal of Environmental Research and Public Health",
+		"volume": "19 (23)",
+		"pages": "16097",
+		"id": "doi: 10.3390/ijerph192316097 ",
+		"link": "https://www.mdpi.com/1660-4601/19/23/16097"
+	},
+	{
+		"refID": "Mignan_IJERPH2022a",
+		"authors": "Mignan A.",
+		"year": 2022,
+		"title": "Categorizing and Harmonizing Natural, Technological, and Socio-Economic Perils Following the Catastrophe Modeling Paradigm",
+		"journal": "International Journal of Environmental Research and Public Health",
+		"volume": "19 (19)",
+		"pages": "12780",
+		"id": "doi: 10.3390/ijerph191912780",
+		"link": "https://www.mdpi.com/1660-4601/19/19/12780"
+	},
+	{
+		"refID": "Feng_etal_SRL2022a",
 		"authors": "Feng Y., Mignan A., Sornette D., Li J.",
 		"year": 2022,
 		"title": "Hierarchical Bayesian Modeling for Improved High-resolution Mapping of the Completeness Magnitude of Earthquake Catalogs",
 		"journal": "Seismological Research Letters",
-		"volume": "in press",
-		"pages": "xx-xx",
-		"id": "doi: N/A",
-		"link": ""
+		"volume": "93 (4)",
+		"pages": "2126-2137",
+		"id": "doi: 10.1785/0220210368",
+		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/93/4/2126/613484/Hierarchical-Bayesian-Modeling-for-Improved-High?redirectedFrom=fulltext"
 	},
 	{
 		"refID": "Mignan_etal_Frontiers2022",
