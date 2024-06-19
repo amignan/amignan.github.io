@@ -1,41 +1,5 @@
 [
 	{
-		"refID": "Mignan_MediumTDS2022",
-		"authors": "Mignan A.",
-		"year": 2022,
-		"title": "Giants in a Tale of 2 Probability Distributions",
-		"source": "Towards Data Science",
-		"id": "Medium post",
-		"link": "https://medium.com/towards-data-science/giants-in-a-tale-of-2-probability-distributions-38e968dda10e"
-	},
-	{
-		"refID": "Mignan_MediumTDS2021",
-		"authors": "Mignan A.",
-		"year": 2021,
-		"title": "Supervised Learning Algorithm Connections Explained",
-		"source": "Towards Data Science",
-		"id": "Medium post",
-		"link": "https://medium.com/towards-data-science/supervised-learning-algorithm-connections-explained-733d2353b7ee"
-	},
-	{
-		"refID": "Mignan_MediumTDS2020",
-		"authors": "Mignan A.",
-		"year": 2020,
-		"title": "World2 model, from DYNAMO to R",
-		"source": "Towards Data Science",
-		"id": "Medium post",
-		"link": "https://towardsdatascience.com/world2-model-from-dynamo-to-r-2e44fdbd0975"
-	},
-	{
-		"refID": "Mignan_MediumTDS2019",
-		"authors": "Mignan A.",
-		"year": 2019,
-		"title": "Mixture modelling from scratch, in R",
-		"source": "Towards Data Science",
-		"id": "Medium post",
-		"link": "https://towardsdatascience.com/mixture-modelling-from-scratch-in-r-5ab7bfc83eef"
-	},
-	{
 		"refID": "Matos_etal_ICOLD2018",
 		"authors": "Matos J., Mignan A., Schleiss A.",
 		"year": 2018,
@@ -43,15 +7,6 @@
 		"source": "Proceedings of the 26th International Congress on Large Dams, ICOLD, 322-344",
 		"id" : "link (EPFL wall)",
 		"link": "https://infoscience.epfl.ch/record/256780"
-	},
-	{
-		"refID": "Jafarimanesh_etal_ICONHIC2016",
-		"authors": "Jafarimanesh A., Mignan A., Giardini D.",
-		"year": 2016,
-		"title": "Landslide triggering modeling in Switzerland",
-		"source": "1st International Conference on Natural Hazards & Infrastructure, 28-30 June, 2016, Chania, Greece, 9 pp.",
-		"id": "external link",
-		"link": "http://strest.ethz.ch/opencms/export/sites/default/.content/STREST_public/ref_Jafarimanesh_etal_ICONIC2016.pdf"
 	},
 	{
 		"refID": "Matos_etal_ICOLD2015",
@@ -63,22 +18,13 @@
 		"link": "http://strest.ethz.ch/opencms/export/sites/default/.content/STREST_public/ref_Matos_etal_13ICOLD2015.pdf"
 	},
 	{
-		"refID": "Giardini&Mignan_PanEUnet2014",
-		"authors": "Giardini D., Mignan A.",
-		"year": 2014,
-		"title": "Protecting infrastructures",
-		"source": "Pan European Networks: Government, Cyber Security, 11, 234-235",
-		"id": "no link",
-		"link": "#"
-	},
-	{
 		"refID": "Mrzyglocki&Mignan_Bevoelkerungsschutz2013",
 		"authors": "Mrzyglocki R., Mignan A.",
 		"year": 2013,
 		"title": "Neue Methoden und Werkzeuge für multiple Risiken",
 		"source": "Bevölkerungsschutz, Bundesamt für Bevölkerungschultz und Katastrophenhilfe, 2, 32-35",
 		"id": "PDF",
-		"link": "dat/2013_Mrzyglocki&Mignan_MATRIX_BBK.pdf"
+		"link": "data/2013_Mrzyglocki&Mignan_MATRIX_BBK.pdf"
 	},
 	{
 		"refID": "Mignan&Reed_Meteorite2012",
@@ -87,7 +33,7 @@
 		"title": "The Monnig Meteorite Collection Numbers Revisited",
 		"source": "Meteorite, 18 (3), 10-13",
 		"id": "PDF",
-		"link": "dat/2012_Mignan&Reed_Meteorite.pdf"
+		"link": "data/2012_Mignan&Reed_Meteorite.pdf"
 	},
 	{
 		"refID": "Mignan_Meteorite2011",
@@ -96,7 +42,7 @@
 		"title": "Claims of Indigenous Life Forms in Meteorites: A Short Review",
 		"source": "Meteorite, 17 (4), 34-38",
 		"id": "PDF",
-		"link": "dat/2011_Mignan_Meteorite.pdf"
+		"link": "data/2011_Mignan_Meteorite.pdf"
 	},
 	{
 		"refID": "Mignan_RMSreport2009",
@@ -105,7 +51,7 @@
 		"title": "Comet and asteroid risk: An analysis of the 1908 Tunguska event",
 		"source": "RMS Special Report, Risk Management Solutions, 16 pp.",
 		"id": "PDF",
-		"link": "dat/2009_Mignan_RMSreport.pdf"
+		"link": "data/2009_Mignan_RMSreport.pdf"
 	},
 	{
 		"refID": "Ericksen_etal_RMSreport2008",

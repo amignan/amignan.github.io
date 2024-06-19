@@ -1,14 +1,36 @@
 [
 	{
-		"refID": "Feng_etal_SRL2022b",
-		"authors": "Feng Y, Mignan A, Sornette D, Gao K",
+		"refID": "Mignan_etal_GSE2024",
+		"authors": "Mignan A., Rinaldi A.P., Lanza F., Wiemer S.",
+		"year": 2024,
+		"title": "A Multi-LASSO model to forecast induced seismicity at enhanced geothermal systems",
+		"journal": "Geoenergy Science and Engineering",
+		"volume": "236",
+		"pages": "212746",
+		"id": "doi: 10.1016/j.geoen.2024.212746",
+		"link": "https://www.sciencedirect.com/science/article/abs/pii/S2949891024001167"
+	},
+	{
+		"refID": "Li_etal_SRL2023",
+		"authors": "Li J., Mignan A., Sornette D., Feng Y.",
+		"year": 2023,
+		"title": "Predicting the Future Performance of the Planned Seismic Network in Chinese Mainland",
+		"journal": "Seismological Research Letters",
+		"volume": "94 (6)",
+		"pages": "2698-2711",
+		"id": "doi: 10.1785/0220230102",
+		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/94/6/2698/628090/Predicting-the-Future-Performance-of-the-Planned?redirectedFrom=fulltext"
+	},
+	{
+		"refID": "Feng_etal_SRL2023",
+		"authors": "Feng Y., Mignan A., Sornette D., Gao K.",
 		"year": 2022,
 		"title": "Investigating Injection Pressure as a Predictor to Enhance Real-time Forecasting of Fluid-induced Seismicity: A Bayesian Model Comparison",
 		"journal": "Seismological Research Letters",
-		"volume": "in press",
-		"pages": "NA",
-		"id": "NA",
-		"link": "#"
+		"volume": "94 (2A)",
+		"pages": "708-719",
+		"id": "doi: 10.1785/0220220309",
+		"link": "https://pubs.geoscienceworld.org/ssa/srl/article-abstract/94/2A/708/619269/Investigating-Injection-Pressure-as-a-Predictor-to?redirectedFrom=fulltext"
 	},
 	{
 		"refID": "Mignan_IJERPH2022b",
@@ -33,7 +55,7 @@
 		"link": "https://www.mdpi.com/1660-4601/19/19/12780"
 	},
 	{
-		"refID": "Feng_etal_SRL2022a",
+		"refID": "Feng_etal_SRL2022",
 		"authors": "Feng Y., Mignan A., Sornette D., Li J.",
 		"year": 2022,
 		"title": "Hierarchical Bayesian Modeling for Improved High-resolution Mapping of the Completeness Magnitude of Earthquake Catalogs",

@@ -1,29 +1,11 @@
 [
 	{
-		"refID": "Mignan_X",
+		"refID": "Mignan_CUP2025",
 		"authors": "Mignan A.",
-		"year": 2024,
-		"title": "Introduction to Catastrophe Risk Modelling",
-		"publisher": "In preparation",
-		"id": "NA",
-		"link": "#"
-	},
-	{
-		"refID": "Mignan_Amazon2018",
-		"authors": "Mignan A.N.",
-		"year": 2018,
-		"title": "Tales of Montvillard",
-		"publisher": "Amazon (self-published)",
-		"id": "ASIN: B0799PT282",
-		"link": "https://www.amazon.com/Tales-Montvillard-N-Mignan-ebook/dp/B0799PT282/ref=sr_1_2?dchild=1&qid=1599028119&refinements=p_27%3AA.+N.+Mignan&s=digital-text&sr=1-2&text=A.+N.+Mignan"
-	},
-	{
-		"refID": "Mignan_Amazon2016",
-		"authors": "Mignan A.N.",
-		"year": 2016,
-		"title": "The Wosnick Tunnel",
-		"publisher": "Amazon (self-published)",
-		"id": "ASIN: B01M9H3DNA",
-		"link": "https://www.amazon.com/Wosnick-Tunnel-N-Mignan-ebook/dp/B01M9H3DNA/ref=sr_1_1?dchild=1&keywords=wosnick+tunnel&qid=1599027865&sr=8-1"
+		"year": 2025,
+		"title": "Introduction to Catastrophe Risk Modelling - A Physics-based Approach",
+		"publisher": "Cambridge University Press",
+		"id": "doi: 10.1017/9781009437370",
+		"link": "https://www.cambridge.org/highereducation/books/introduction-to-catastrophe-risk-modelling/A3A5B5FB990921422BFEBB07734BF869#overview"
 	}
 ]
